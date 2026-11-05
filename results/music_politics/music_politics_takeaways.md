@@ -1,7 +1,7 @@
 # Music taste and political ideology: replicating Myers (2019) with Machine 2
 
 Main takeaways from `music_politics_replication.ipynb` (run 2026-10-03). Paper: Myers (2019), *The songs of my
-people*, NYU honors thesis (`paper_bin/`).
+people*, NYU honors thesis (`references/myers2019_songs_of_my_people.pdf`).
 
 ## Bottom line
 
@@ -92,8 +92,8 @@ figure (Fig 3), so its familiarity results cannot be checked.
   even trial genre means. It excluded 2.2% of participants, vs. 7.8% in the paper.
 
 ## Files
-- `music_politics_replication.ipynb`: full analysis
-- `music_politics_song_differences.csv`: per-clip liberal vs. non-liberal means, differences and tests (320 clips)
-- `music_politics_reclassification.csv`: reclassification results for the four groupings
-- `paper_bin/myers2019_fig5_song_differences.csv`: the paper's 260 per-song differences, transcribed from its Fig 5,
+- `notebooks/music_politics_replication.ipynb`: full analysis
+- `results/music_politics/music_politics_song_differences.csv`: per-clip liberal vs. non-liberal means, differences and tests (320 clips)
+- `results/music_politics/music_politics_reclassification.csv`: reclassification results for the four groupings
+- `references/myers2019_fig5_song_differences.csv`: the paper's 260 per-song differences, transcribed from its Fig 5,
   matched to Machine 2 clip IDs
