@@ -1,0 +1,261 @@
+paper_rank,paper_title_as_printed,paper_mean_diff,machine2_music_id,match,machine2_title,machine2_artist
+1,Gold Digger,1.11,,not among the 320 Machine 2 core clips,,
+2,Hypnotize,1.01,73,title match,Hypnotize,Notorious B.I.G.
+3,The Chipmunk Song,-0.99,,not among the 320 Machine 2 core clips,,
+4,Irreplaceable,0.96,,not among the 320 Machine 2 core clips,,
+5,Three Little Bird,0.93,30,title match,Three Little Birds,Bob Marley
+6,SexyBack,0.92,65,title match,SexyBack,Justin Timberlake
+7,Jump,0.9,,not among the 320 Machine 2 core clips,,
+8,I'm Sorry,0.89,,not among the 320 Machine 2 core clips,,
+9,Smells Like Teen,0.89,28,title match,Smells Like Teen Spirit,Nirvana
+10,Give It To Me,0.88,63,title match,Give It To Me,Timbaland
+11,The Way It Is,-0.86,,not among the 320 Machine 2 core clips,,
+12,It Was A Good Day,0.83,22,title match,It Was A Good Day,Ice Cube
+13,Drop It Like It's,0.82,,not among the 320 Machine 2 core clips,,
+14,Don't Break The H,0.82,,not among the 320 Machine 2 core clips,,
+15,Truffle Butter,0.79,24,title match,Truffle Butter,Nicki Minaj
+16,Baby Boy,0.78,,not among the 320 Machine 2 core clips,,
+17,"Jingle, Jangle, J",0.78,,not among the 320 Machine 2 core clips,,
+18,Baby Got Back,0.78,153,title match,Baby Got Back,Sir Mix A Lot
+19,Everything is Bea,-0.77,99,title match,Everything is Beautiful,Ray Stevens
+20,Texas Tornado,-0.75,46,title match,Texas Tornado,Tracy Lawrence
+21,The Tide Is High,0.74,88,title match,The Tide Is High,Blondie
+22,Happy,-0.74,91,title match,Happy,Pharrell Williams
+23,"""3""",0.72,61,title match,"""3""",Britney Spears
+24,Bump N' Grind,0.71,,not among the 320 Machine 2 core clips,,
+25,Roe v. Wade,0.7,,not among the 320 Machine 2 core clips,,
+26,What Do You Mean?,-0.68,156,title match,What Do You Mean?,Justin Bieber
+27,Hello Goodbye,0.67,,not among the 320 Machine 2 core clips,,
+28,Sandstorm,-0.66,12,title match,Sandstorm,Darude
+29,My Name is D-Nice,0.65,,not among the 320 Machine 2 core clips,,
+30,I'll Never Smile,0.62,,not among the 320 Machine 2 core clips,,
+31,Interstate Rag,-0.62,48,title match,Interstate Rag,Doc Watson
+32,Have You Ever Rea,-0.62,76,title match,Have You Ever Really Loved A Woman?,Bryan Adams
+33,Buttons and Bows,0.61,,not among the 320 Machine 2 core clips,,
+34,Love Me Do,0.61,,not among the 320 Machine 2 core clips,,
+35,"I Want You, I Nee",0.61,,not among the 320 Machine 2 core clips,,
+36,No Diggity,0.6,168,title match,No Diggity,Blackstreet
+37,Enter Sandman,-0.6,27,title match,Enter Sandman,Metallica
+38,I Wish You Love,-0.6,38,title match,I Wish You Love,Mantovani
+39,You're My Best Fr,0.59,,not among the 320 Machine 2 core clips,,
+40,I Believe,-0.59,66,title match,I Believe,Fantasia
+41,Informer,0.58,,not among the 320 Machine 2 core clips,,
+42,Let the Mystery B,-0.58,47,title match,Let the Mystery Be,Iris Dement
+43,Hollaback Girl,0.58,,not among the 320 Machine 2 core clips,,
+44,A String Of Pearl,0.58,,not among the 320 Machine 2 core clips,,
+45,Gonna Rock Tonigh,0.58,,not among the 320 Machine 2 core clips,,
+46,Take On Me,0.57,,not among the 320 Machine 2 core clips,,
+47,Intro,0.57,55,"manual: rap ""Intro"" (paper frame = rap)",Intro,Ludacris
+48,Ain't It Funny,0.55,69,title match,Ain't It Funny,Ja Rule & Jennifer Lopez
+49,Darlin Colly,0.55,43,title match,Darlin Colly,Eileen Ivers
+50,Hold It Against M,0.55,60,title match,Hold It Against Me,Britney Spears
+51,Gonna Make You Sw,0.54,79,title match,Gonna Make You Sweat (Everybody Dance Now),C&C Music Factory
+52,You Brought Me Up,-0.54,40,title match,You Brought Me Up,Meav
+53,Heaven,-0.53,85,title match,Heaven,Bryan Adams
+54,Truly Madly Deepl,-0.52,72,title match,Truly Madly Deeply,Savage Garden
+55,Ja Funmi,0.52,,not among the 320 Machine 2 core clips,,
+56,Don't Fence Me In,0.52,,not among the 320 Machine 2 core clips,,
+57,Frenesi,0.52,,not among the 320 Machine 2 core clips,,
+58,With Or Without Y,-0.52,83,title match,With Or Without You,U2
+59,Gin and Juice,0.52,23,title match,Gin and Juice,Snoop Dogg
+60,Come On Over Baby,0.51,,not among the 320 Machine 2 core clips,,
+61,"Bills, Bills, Bil",0.5,,not among the 320 Machine 2 core clips,,
+62,Man! I Feel Like,-0.49,8,title match,Man! I Feel Like a Woman!,Shania Twain
+63,Diamonds,0.49,58,title match,Diamonds,Rihanna
+64,Coronation March,-0.49,,not among the 320 Machine 2 core clips,,
+65,All Shook Up,0.49,,not among the 320 Machine 2 core clips,,
+66,Wildflower,0.48,,not among the 320 Machine 2 core clips,,
+67,This Is Why I'm H,0.48,64,title match,This Is Why I'm Hot,Mims
+68,Cherry Pink (and,0.47,,not among the 320 Machine 2 core clips,,
+69,Help!,0.47,,not among the 320 Machine 2 core clips,,
+70,How High The Moon,0.47,,not among the 320 Machine 2 core clips,,
+71,I'm Making Believ,0.46,,not among the 320 Machine 2 core clips,,
+72,Lean On Me,0.45,84,title match,Lean On Me,Club Nouveau
+73,It's All in the G,0.45,,not among the 320 Machine 2 core clips,,
+74,The Happening,-0.45,,not among the 320 Machine 2 core clips,,
+75,Caribbean Queen,-0.44,,not among the 320 Machine 2 core clips,,
+76,Rag Mop,-0.44,166,title match,Rag Mop,Ames Brothers
+77,Eight Days A Week,0.43,,not among the 320 Machine 2 core clips,,
+78,Locked Out of Hea,0.43,130,title match,Locked Out of Heaven,Bruno Mars
+79,Blowin' in the Wi,-0.43,6,title match,Blowin' in the Wind,Bob Dylan
+80,My Sharona,0.43,161,title match,My Sharona,The Knack
+81,Bootylicious,0.42,71,title match,Bootylicious,Destiny's Child
+82,Blue Moon of Kent,-0.42,5,title match,Blue Moon of Kentucky,Bill Monroe
+83,I Fell In Love,-0.41,44,title match,I Fell In Love,Carlene Carter
+84,Rapper's Delight,0.41,,not among the 320 Machine 2 core clips,,
+85,4 Seasons of Lone,0.41,,not among the 320 Machine 2 core clips,,
+86,The Lion Sleeps T,0.41,,not among the 320 Machine 2 core clips,,
+87,Folsom Prison Blu,-0.4,7,title match,Folsom Prison Blues,Johnny Cash
+88,You Light Up My L,-0.4,93,title match,You Light Up My Life,Debby Boone
+89,Dolphin Dance,-0.4,15,title match,Dolphin Dance,Herbie Hancock
+90,It's Only Make Be,-0.4,,not among the 320 Machine 2 core clips,,
+91,Rock With You,0.4,277,title match,Rock With You,Michael Jackson
+92,Claire de Lune (f,0.39,207,manual: spelling differs,Clair De Lune,Claude Debussy
+93,Brown Baby,0.39,,not among the 320 Machine 2 core clips,,
+94,Easier Said Than,0.39,,not among the 320 Machine 2 core clips,,
+95,Rock The Clock,-0.38,,not among the 320 Machine 2 core clips,,
+96,Express Yourself,0.38,,not among the 320 Machine 2 core clips,,
+97,Stronger (What Do,-0.38,,not among the 320 Machine 2 core clips,,
+98,Family Affair,0.37,70,title match,Family Affair,Mary J. Blige
+99,If You Only Knew,0.37,,not among the 320 Machine 2 core clips,,
+100,Roll With It,0.36,,not among the 320 Machine 2 core clips,,
+101,Go Away Little Gi,-0.36,,not among the 320 Machine 2 core clips,,
+102,Whatever You Like,-0.36,62,title match,Whatever You Like,T.I.
+103,I Need You Now,0.35,158,title match,I Need You Now,Eddie Fisher
+104,Satisfaction,-0.35,11,title match,Satisfaction,Benny Benassi
+105,Nuvole Bianche,0.34,,not among the 320 Machine 2 core clips,,
+106,Get Back,0.34,100,title match,Get Back,The Beatles w/ Billy Preston
+107,Waxing Moon,0.34,,not among the 320 Machine 2 core clips,,
+108,Are You Lonesome,0.33,,not among the 320 Machine 2 core clips,,
+109,Big Blue Sun,0.33,,not among the 320 Machine 2 core clips,,
+110,Magic,0.32,89,title match,Magic,Olivia Newton-John
+111,Chattanooga Choo,-0.31,,not among the 320 Machine 2 core clips,,
+112,Twelfth Street Ra,0.31,,not among the 320 Machine 2 core clips,,
+113,Slate,-0.31,,not among the 320 Machine 2 core clips,,
+114,The Thing,0.3,,not among the 320 Machine 2 core clips,,
+115,Speed of Sound,-0.3,,not among the 320 Machine 2 core clips,,
+116,Besame Mucho (Kis,0.3,,not among the 320 Machine 2 core clips,,
+117,Bohemian Beer Par,-0.3,,not among the 320 Machine 2 core clips,,
+118,Kiss On My List,0.29,,not among the 320 Machine 2 core clips,,
+119,Lady Marmalade,0.29,94,title match,Lady Marmalade,Labelle
+120,Every Rose Has It,-0.29,82,title match,Every Rose Has Its Thorn,Poison
+121,The Wayward Wind,0.28,154,title match,The Wayward Wind,Gogi Grant
+122,Cold Feelings,0.28,,not among the 320 Machine 2 core clips,,
+123,Take The A Train,-0.28,231,title match,Take The A Train,Duke Ellington
+124,Wheel of Fortune,0.27,162,title match,Wheel of Fortune,Kay Starr
+125,Get Busy,0.27,160,title match,Get Busy,Sean Paul
+126,Smooth,0.27,,not among the 320 Machine 2 core clips,,
+127,Heute Nact,-0.26,53,title match,Heute Nact,Brigitte
+128,Fur Elise,-0.26,204,title match,Fur Elise,Ludwig Van Beethoven
+129,One Sweet Day,0.26,74,title match,One Sweet Day,Mariah Carey & Boyz II Men
+130,...Baby One More,0.25,,not among the 320 Machine 2 core clips,,
+131,"Gypsies, Tramps,",-0.25,97,title match,"Gypsies, Tramps, And Thieves",Cher
+132,Abracadabra,0.25,87,title match,Abracadabra,The Steve Miller Band
+133,That Lucky Old Su,-0.24,45,title match,That Lucky Old Sun,Frankie Laine
+134,Jumping the Creek,0.24,,not among the 320 Machine 2 core clips,,
+135,Ben,-0.24,96,title match,Ben,Michael Jackson
+136,Laughter in the r,0.24,54,title match,Laughter in the rain,Earl Klugh
+137,Harper Valley P.T,-0.24,,not among the 320 Machine 2 core clips,,
+138,Lately,0.23,164,title match,Lately,Divine
+139,When A Man Loves,0.23,,not among the 320 Machine 2 core clips,,
+140,Lose Yourself,0.22,155,title match,Lose Yourself,Eminem
+141,Four Seasons: Con,-0.22,2,title match,Four Seasons: Concerto No. 2 in G Minor,Antonio Vivaldi
+142,Exhale (Shoop Sho,0.22,75,title match,Exhale (Shoop Shoop),Whitney Houston
+143,Music Sounds Bett,0.22,10,title match,Music Sounds Better With You,Stardust
+144,Leader Of The Pac,0.21,,not among the 320 Machine 2 core clips,,
+145,Confirmation,0.21,232,title match,Confirmation,Charlie Parker Quartet
+146,Need You Now,0.21,,not among the 320 Machine 2 core clips,,
+147,The Yellow Rose o,-0.21,,not among the 320 Machine 2 core clips,,
+148,Titanium,-0.2,,not among the 320 Machine 2 core clips,,
+149,Just Walk Away,-0.2,,not among the 320 Machine 2 core clips,,
+150,Black and Yellow,0.2,59,title match,Black and Yellow,Wiz Khalifa
+151,Fireflies,-0.2,,not among the 320 Machine 2 core clips,,
+152,My Dreams Are Get,0.19,,not among the 320 Machine 2 core clips,,
+153,A Little Bird Tol,0.19,,not among the 320 Machine 2 core clips,,
+154,I've Heard That S,0.19,,not among the 320 Machine 2 core clips,,
+155,I'm Walking Behin,-0.19,,not among the 320 Machine 2 core clips,,
+156,Ballerina,-0.18,,not among the 320 Machine 2 core clips,,
+157,I Swear,0.18,77,title match,I Swear,All-4-One
+158,Flashdance... Wha,0.18,,not among the 320 Machine 2 core clips,,
+159,The Most Beautifu,-0.18,,not among the 320 Machine 2 core clips,,
+160,Get It On,0.18,50,title match,Get It On,Kingdom Come
+161,Money For Nothing,0.18,157,title match,Money For Nothing,Dire Straigts
+162,"Oh, Darlin'",0.17,167,title match,Oh Darlin,The Okanes
+163,See You Again,0.17,56,title match,See You Again,Wiz Khalifa ft. Charlie Puth
+164,Foolish,0.17,68,title match,Foolish,Ashanti
+165,Can't Get Enough,-0.16,,not among the 320 Machine 2 core clips,,
+166,The Way You Look,0.16,37,title match,The Way You Look Tonight,Oscar Peterson
+167,Blue Moon,0.16,,not among the 320 Machine 2 core clips,,
+168,Sad Eyes,-0.15,90,title match,Sad Eyes,Robert John
+169,Unspeakable,-0.15,,not among the 320 Machine 2 core clips,,
+170,Daddy,-0.15,,not among the 320 Machine 2 core clips,,
+171,Heaven's Flame,-0.15,,not among the 320 Machine 2 core clips,,
+172,I Will Always Lov,0.14,,not among the 320 Machine 2 core clips,,
+173,"Monday, Monday",0.14,165,title match,"Monday, Monday",The Mamas & The Papas
+174,Where Eagles Dare,0.14,49,title match,Where Eagles Dare,Iron Maiden
+175,Top Of The World,-0.14,95,title match,Top Of The World,Carpenters
+176,"Sugar, Sugar",0.14,18,title match,"Sugar, Sugar",The Archies
+177,Send Me the Pillo,0.14,,not among the 320 Machine 2 core clips,,
+178,Cherokee (Concept,0.14,,not among the 320 Machine 2 core clips,,
+179,Oh! My Pa-Pa,0.13,67,title match,Oh! My Pa-Pa,Eddie Fisher
+180,Holding Back The,-0.13,,not among the 320 Machine 2 core clips,,
+181,Rock Box (1983),0.13,,not among the 320 Machine 2 core clips,,
+182,Easy Zancudo,0.13,36,title match,Easy Zancudo,Ruben Gonzalez
+183,Come Fly With Me,0.13,234,title match,Come Fly With Me,Frank Sinatra
+184,Footloose,0.13,86,title match,Footloose,Kenny Loggins
+185,Symphony No. 3,-0.12,34,title match,Symphony No. 3,Philip Glass
+186,Independence Day,-0.12,9,title match,Independence Day,Martina McBride
+187,Shadow Dancing,0.12,92,title match,Shadow Dancing,Andy Gibb
+188,Crosley March,-0.11,,not among the 320 Machine 2 core clips,,
+189,American Idiot,0.11,20,title match,American Idiot,Green Day
+190,Love Child,0.11,,not among the 320 Machine 2 core clips,,
+191,Knock Three Times,-0.1,,not among the 320 Machine 2 core clips,,
+192,Lost In Your Eyes,0.1,,not among the 320 Machine 2 core clips,,
+193,All About That Ba,-0.1,57,title match,All About That Bass,Meghan Trainor
+194,Billie Jean,0.1,245,title match,Billie Jean,Michael Jackson
+195,Feel It All Aroun,0.1,13,title match,Feel It All Around,Washed Out
+196,Fallin',0.09,,not among the 320 Machine 2 core clips,,
+197,Midnight City,0.09,,not among the 320 Machine 2 core clips,,
+198,What You Won't Do,0.09,32,title match,What You Won't Do For Love,Bobby Caldwell
+199,How Am I Supposed,0.08,81,title match,How Am I Supposed To Live Without You?,Michael Bolton
+200,"Boston Concerto,",-0.08,159,title match,"Boston Concerto, Allegro Staccatissimo",Elliott Carter
+201,Lucy In The Sky W,0.08,25,title match,Lucy In The Sky With Diamonds,The Beatles
+202,Wedding Bell Blue,-0.08,,not among the 320 Machine 2 core clips,,
+203,Sleepwalk,0.08,169,title match,Sleepwalk,Santo And Johnny
+204,Anarchy In The UK,-0.07,266,title match,Anarchy In The U.K.,Sex Pistols
+205,Not Afraid,-0.07,,not among the 320 Machine 2 core clips,,
+206,Requiem in D Mino,-0.07,3,"manual: Mozart, named in the paper text",Requiem in D Minor,Wolfgang Amadeus Mozart
+207,Till I Waltz Agai,0.07,,not among the 320 Machine 2 core clips,,
+208,Backbone,-0.07,42,title match,Backbone,Boney James
+209,City of Gold,-0.07,,not among the 320 Machine 2 core clips,,
+210,Feel the Love,0.07,,not among the 320 Machine 2 core clips,,
+211,It's Obvious,-0.07,,not among the 320 Machine 2 core clips,,
+212,Blue (Da Ba Dee),-0.07,19,title match,Blue (Da Ba Dee),Eiffel 65
+213,Lichtspruch,-0.06,,not among the 320 Machine 2 core clips,,
+214,Bleeding Love,0.06,146,title match,Bleeding Love,Leona Lewis
+215,Saturday Night,-0.06,,not among the 320 Machine 2 core clips,,
+216,Joyride,0.06,,not among the 320 Machine 2 core clips,,
+217,One Term Presiden,0.06,,not among the 320 Machine 2 core clips,,
+218,"Oh No, the Radio",-0.06,,not among the 320 Machine 2 core clips,,
+219,Shake it Off,0.06,21,title match,Shake it Off,Taylor Swift
+220,Hoochie Coochie M,-0.06,29,title match,Hoochie Coochie Man,Muddy Waters
+221,Mambo Numero Cinc,-0.05,39,title match,Mambo Numero Cinco,Hilton Ruiz
+222,Piano Quintet No.,0.05,,not among the 320 Machine 2 core clips,,
+223,OMG,0.05,138,title match,OMG,Usher featuring will.i.am
+224,When Our Love Pas,0.05,51,title match,When Our Love Passed Out on the Couch,X
+225,Spain,-0.05,16,title match,Spain,Chick Corea
+226,Lovely Day,0.05,31,title match,Lovely Day,Bill Withers
+227,I'm Sorry,0.04,,not among the 320 Machine 2 core clips,,
+228,Milestones,0.04,14,title match,Milestones,Miles Davis
+229,Near You,0.04,,not among the 320 Machine 2 core clips,,
+230,You Can't Hurry L,0.04,273,title match,You Can't Hurry Love,The Supremes
+231,Nessum Dorma,0.04,4,manual: spelling differs,Nessun Dorma,Luciano Pavarotti
+232,Heart Of Gold,-0.04,17,title match,Heart of Gold,Neil Young
+233,"Bye, Bye, Bye (Di",0.04,246,manual: title formatting differs,Bye bye bye,NSYNC
+234,I Can't Begin To,0.04,,not among the 320 Machine 2 core clips,,
+235,Angela,0.04,151,title match,Angela,Bob James
+236,My Favorite Polka,0.03,41,title match,My Favorite Polka,Frankie Yankovic
+237,Dirty Angels,-0.03,52,title match,Dirty Angels,Cats Choir
+238,The Loco-Motion,0.03,,not among the 320 Machine 2 core clips,,
+239,Praying For Time,-0.03,80,title match,Praying For Time,George Michael
+240,Symphony No. 1 in,-0.03,35,title match,Symphony No. 1 in B Flat Major,William Boyce
+241,Gonna Fly Now,0.03,,not among the 320 Machine 2 core clips,,
+242,If You Don't Know,0.03,,not among the 320 Machine 2 core clips,,
+243,Wrecking Ball,-0.03,,not among the 320 Machine 2 core clips,,
+244,Take Me In Your A,-0.03,163,title match,Take Me In Your Arms,Dean Martin
+245,The Long and Wind,0.03,98,title match,The Long and Winding Road,The Beatles
+246,Afro Blue,0.03,33,title match,Afro Blue,Robert Glasper feat Erykah Badu
+247,Round and Round,0.03,,rejected: paper frames it as jazz; Machine 2 clip is Ratt (metal),,
+248,I Love You,0.03,78,title match,I Love You,Kenny Rankin
+249,Love Machine,0.03,,not among the 320 Machine 2 core clips,,
+250,The Gypsy,0.03,,not among the 320 Machine 2 core clips,,
+251,Razzle Dazzle,0.02,,not among the 320 Machine 2 core clips,,
+252,Maniac,-0.02,,not among the 320 Machine 2 core clips,,
+253,Je Vous Pri Que J,-0.02,1,title match,Je Vous Pri Que J'Aye un Baysier,Richard Loqueville
+254,Soldier Boy,-0.02,,not among the 320 Machine 2 core clips,,
+255,Baby Come Back,-0.02,,not among the 320 Machine 2 core clips,,
+256,"Good Times, Bad T",-0.02,26,title match,"Good Times, Bad Times",Led Zeppelin
+257,I Had The Crazies,-0.01,170,title match,I Had The Craziest Dream,Harry James
+258,"Cold, Cold Heart",0.01,,not among the 320 Machine 2 core clips,,
+259,Truly,0.0,,not among the 320 Machine 2 core clips,,
+260,Why Don't You Bel,-0.0,,not among the 320 Machine 2 core clips,,

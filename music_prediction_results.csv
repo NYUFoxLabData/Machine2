@@ -1,0 +1,15 @@
+target,metric,score,sd,chance,k,n,clips_selected_median,clips_selected_range,trees_median,above_chance,clips_selected_final
+gender,balanced accuracy,0.7122,0.0324,0.5,2.0,766,16.0,5-128,354.0,0.2122,16
+race,balanced accuracy,0.3467,0.0353,0.1429,7.0,794,64.0,16-128,127.0,0.2039,96
+age,R2,0.081,0.1937,0.0,,796,16.0,5-128,161.0,0.081,5
+area,balanced accuracy,0.4147,0.0481,0.3333,3.0,773,16.0,5-256,319.0,0.0813,96
+lyrics_vs_instruments,balanced accuracy,0.4239,0.0346,0.3333,3.0,789,12.0,5-32,91.0,0.0906,8
+music_importance,balanced accuracy,0.3697,0.0382,0.3333,3.0,790,8.0,5-96,108.0,0.0364,32
+religion,balanced accuracy,0.2741,0.0448,0.1429,7.0,769,8.0,5-32,333.0,0.1313,12
+political_view,balanced accuracy,0.2213,0.0449,0.1429,7.0,782,48.0,5-320,449.0,0.0785,16
+SES,balanced accuracy,0.2593,0.0481,0.2,5.0,745,16.0,5-192,120.0,0.0593,16
+BFI_Extraversion,R2,0.031,0.0398,0.0,,959,24.0,5-96,56.0,0.031,32
+BFI_Agreeableness,R2,-0.0001,0.0524,0.0,,959,32.0,5-256,119.0,-0.0001,32
+BFI_Conscientiousness,R2,-0.0314,0.0597,0.0,,959,32.0,5-192,87.0,-0.0314,16
+BFI_Neuroticism,R2,-0.0449,0.0408,0.0,,959,12.0,5-192,103.0,-0.0449,96
+BFI_Openness,R2,0.0808,0.0617,0.0,,959,32.0,12-256,193.0,0.0808,192

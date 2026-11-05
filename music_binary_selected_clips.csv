@@ -1,0 +1,930 @@
+target,positive_class,MusicId,importance,rating_diff_pos_minus_neg,Title,Artist,Year,Genre,importance_share
+BFI_Agreeableness,high (> 3.66667),115,189.8468,0.4724,Hello,Adele,2015,Pop/Mainstream,0.0692
+BFI_Agreeableness,high (> 3.66667),116,108.4306,0.4206,Rude,Magic!,2014,Pop/Mainstream,0.0395
+BFI_Agreeableness,high (> 3.66667),79,98.0701,0.411,Gonna Make You Sweat (Everybody Dance Now),C&C Music Factory,1991,Pop/Mainstream,0.0357
+BFI_Agreeableness,high (> 3.66667),11,97.0539,-0.1713,Satisfaction,Benny Benassi,2002,Electronic/Dance,0.0354
+BFI_Agreeableness,high (> 3.66667),25,86.599,0.366,Lucy In The Sky With Diamonds,The Beatles,1967,Rock/Alternative/Metal/Punk,0.0315
+BFI_Agreeableness,high (> 3.66667),199,84.3804,-0.4208,I am Black Wizzards,Emperor,1994,Rock/Alternative/Metal/Punk,0.0307
+BFI_Agreeableness,high (> 3.66667),197,68.8525,-0.4114,Piercing Where They Might,Lurker of Chalice,2005,Rock/Alternative/Metal/Punk,0.0251
+BFI_Agreeableness,high (> 3.66667),209,67.753,0.2154,Rubric,Philip Glass,1981,Classical/Opera/Soundtrack,0.0247
+BFI_Agreeableness,high (> 3.66667),76,54.357,0.3042,Have You Ever Really Loved A Woman?,Bryan Adams,1995,Rock/Alternative/Metal/Punk,0.0198
+BFI_Agreeableness,high (> 3.66667),302,49.6786,-0.0105,Hava Nagila,Abraham Zevi Idelsohn,1915,World/International,0.0181
+BFI_Agreeableness,high (> 3.66667),261,46.5361,0.3133,Johnny B. Goode,Chuck Berry,1959,Rock/Alternative/Metal/Punk,0.017
+BFI_Agreeableness,high (> 3.66667),52,40.9605,-0.0361,Dirty Angels,Cats Choir,1991,Rock/Alternative/Metal/Punk,0.0149
+BFI_Agreeableness,high (> 3.66667),245,35.9952,0.4059,Billie Jean,Michael Jackson,1982,Pop/Mainstream,0.0131
+BFI_Agreeableness,high (> 3.66667),94,35.9456,0.11,Lady Marmalade,Labelle,1975,R&B/Soul/Funk/Disco,0.0131
+BFI_Agreeableness,high (> 3.66667),105,34.4333,0.4671,Despacito,Luis Fonsi and Daddy Yankee featuring Justin Bieber,2017,Pop/Mainstream,0.0125
+BFI_Agreeableness,high (> 3.66667),281,33.2788,0.2232,El Son de la Negra,Blas Gilando Dimas,1940,World/International,0.0121
+BFI_Agreeableness,high (> 3.66667),91,32.7732,0.384,Happy,Pharrell Williams,2013,Pop/Mainstream,0.0119
+BFI_Agreeableness,high (> 3.66667),184,32.7711,-0.1718,Black Sabbath,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0119
+BFI_Agreeableness,high (> 3.66667),294,32.493,-0.1397,Aap Jaisa Koi,Nazia Hassan,1980,World/International,0.0118
+BFI_Agreeableness,high (> 3.66667),234,32.3727,0.3608,Come Fly With Me,Frank Sinatra,1957,Jazz/Vocal,0.0118
+BFI_Agreeableness,high (> 3.66667),198,31.718,-0.3919,Death - Pierce Me,Silencer,2001,Rock/Alternative/Metal/Punk,0.0116
+BFI_Agreeableness,high (> 3.66667),250,30.944,0.3798,Bubbly,Colbie Caillat,2007,Pop/Mainstream,0.0113
+BFI_Agreeableness,high (> 3.66667),85,29.9337,0.4204,Heaven,Bryan Adams,1985,Rock/Alternative/Metal/Punk,0.0109
+BFI_Agreeableness,high (> 3.66667),16,28.3965,-0.1254,Spain,Chick Corea,1971,Jazz/Vocal,0.0103
+BFI_Agreeableness,high (> 3.66667),121,28.3625,0.2725,Royals,Lorde,2013,Pop/Mainstream,0.0103
+BFI_Agreeableness,high (> 3.66667),210,28.1423,-0.1959,Sonatas and Interludes,John Cage,1946,Classical/Opera/Soundtrack,0.0103
+BFI_Agreeableness,high (> 3.66667),86,25.1383,0.379,Footloose,Kenny Loggins,1984,Rock/Alternative/Metal/Punk,0.0092
+BFI_Agreeableness,high (> 3.66667),100,24.148,0.2796,Get Back,The Beatles w/ Billy Preston,1969,Rock/Alternative/Metal/Punk,0.0088
+BFI_Agreeableness,high (> 3.66667),296,23.882,0.041,Haperach Begani (The Flower in My Garden),Zohar Argov,1982,World/International,0.0087
+BFI_Agreeableness,high (> 3.66667),51,23.6337,0.1329,When Our Love Passed Out on the Couch,X,1981,Rock/Alternative/Metal/Punk,0.0086
+BFI_Agreeableness,high (> 3.66667),45,23.5637,0.2101,That Lucky Old Sun,Frankie Laine,1958,Country/Folk,0.0086
+BFI_Agreeableness,high (> 3.66667),239,23.5144,0.2316,Footprints,Wayne Shorter,1965,Jazz/Vocal,0.0086
+BFI_Agreeableness,high (> 3.66667),21,22.9322,0.4837,Shake it Off,Taylor Swift,2014,Pop/Mainstream,0.0084
+BFI_Agreeableness,high (> 3.66667),131,22.3546,0.3737,Party Rock Anthem,LMFAO featuring Lauren Bennett and GoonRock,2011,Electronic/Dance,0.0081
+BFI_Agreeableness,high (> 3.66667),241,21.9934,0.3968,Jailhouse Rock,Elvis Presley,1957,Pop/Mainstream,0.008
+BFI_Agreeableness,high (> 3.66667),87,21.9332,-0.0128,Abracadabra,The Steve Miller Band,1982,Rock/Alternative/Metal/Punk,0.008
+BFI_Agreeableness,high (> 3.66667),40,21.5587,0.2212,You Brought Me Up,Meav,2003,World/International,0.0079
+BFI_Agreeableness,high (> 3.66667),179,21.0177,-0.3391,Dunkelheit,Burzum,1996,Rock/Alternative/Metal/Punk,0.0077
+BFI_Agreeableness,high (> 3.66667),229,20.1722,-0.1494,Scary Monsters and Nice Sprites,Skrillex,2010,Electronic/Dance,0.0073
+BFI_Agreeableness,high (> 3.66667),287,19.4366,0.031,Pata Pata,Miriam Makeba,1989,World/International,0.0071
+BFI_Agreeableness,high (> 3.66667),93,19.3086,0.1663,You Light Up My Life,Debby Boone,1977,Pop/Mainstream,0.007
+BFI_Agreeableness,high (> 3.66667),98,18.8679,0.232,The Long and Winding Road,The Beatles,1970,Rock/Alternative/Metal/Punk,0.0069
+BFI_Agreeableness,high (> 3.66667),112,18.2047,0.4286,Sugar,Maroon 5,2015,Rock/Alternative/Metal/Punk,0.0066
+BFI_Agreeableness,high (> 3.66667),31,18.0196,0.2302,Lovely Day,Bill Withers,1977,R&B/Soul/Funk/Disco,0.0066
+BFI_Agreeableness,high (> 3.66667),183,17.9455,-0.0628,Helter Skelter,The Beatles,1968,Rock/Alternative/Metal/Punk,0.0065
+BFI_Agreeableness,high (> 3.66667),258,17.8461,-0.01,Accordion,Madvillain,2004,Rap/Hiphop,0.0065
+BFI_Agreeableness,high (> 3.66667),8,17.629,0.2835,Man! I Feel Like a Woman!,Shania Twain,1997,Country/Folk,0.0064
+BFI_Agreeableness,high (> 3.66667),170,17.1735,0.1661,I Had The Craziest Dream,Harry James,1942,Pop/Mainstream,0.0063
+BFI_Agreeableness,high (> 3.66667),125,16.858,0.4135,Roar,Katy Perry,2013,Pop/Mainstream,0.0061
+BFI_Agreeableness,high (> 3.66667),173,16.8278,0.0203,The Goldberg Variations,J.S.Bach,1741,Classical/Opera/Soundtrack,0.0061
+BFI_Agreeableness,high (> 3.66667),140,16.4109,0.3241,Break Your Heart,Taio Cruz featuring Ludacris,2010,Pop/Mainstream,0.006
+BFI_Agreeableness,high (> 3.66667),164,16.277,0.0305,Lately,Divine,1998,R&B/Soul/Funk/Disco,0.0059
+BFI_Agreeableness,high (> 3.66667),165,15.7262,0.1433,"Monday, Monday",The Mamas & The Papas,1966,Rock/Alternative/Metal/Punk,0.0057
+BFI_Agreeableness,high (> 3.66667),82,15.3566,0.174,Every Rose Has Its Thorn,Poison,1988,Rock/Alternative/Metal/Punk,0.0056
+BFI_Agreeableness,high (> 3.66667),110,15.3058,0.1638,Panda,Desiigner,2016,Rap/Hiphop,0.0056
+BFI_Agreeableness,high (> 3.66667),279,15.2482,0.2189,On And On,Erykah Badu,1997,R&B/Soul/Funk/Disco,0.0056
+BFI_Agreeableness,high (> 3.66667),259,14.7436,0.1602,Gucci Gang,Lil Pump,2017,Rap/Hiphop,0.0054
+BFI_Agreeableness,high (> 3.66667),266,14.633,-0.1565,Anarchy In The U.K.,Sex Pistols,1977,Rock/Alternative/Metal/Punk,0.0053
+BFI_Agreeableness,high (> 3.66667),185,13.4799,-0.1734,Hell's Bells,AC/DC,1980,Rock/Alternative/Metal/Punk,0.0049
+BFI_Agreeableness,high (> 3.66667),104,13.1456,0.3988,That's What I Like,Bruno Mars,2017,R&B/Soul/Funk/Disco,0.0048
+BFI_Agreeableness,high (> 3.66667),311,13.0261,0.4765,Under the Sea,Samuel E Wright,1989,World/International,0.0047
+BFI_Agreeableness,high (> 3.66667),46,13.0066,0.0798,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.0047
+BFI_Agreeableness,high (> 3.66667),57,12.7315,0.4413,All About That Bass,Meghan Trainor,2014,Pop/Mainstream,0.0046
+BFI_Agreeableness,high (> 3.66667),275,12.6664,0.2567,Give Up The Funk,Parliament,1975,R&B/Soul/Funk/Disco,0.0046
+BFI_Agreeableness,high (> 3.66667),263,12.5385,-0.0969,Iron Man,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0046
+BFI_Agreeableness,high (> 3.66667),246,12.2382,0.3297,Bye bye bye,NSYNC,1998,Pop/Mainstream,0.0045
+BFI_Agreeableness,high (> 3.66667),238,12.2282,0.0617,The Girl From Ipanema,Stan Getz & Astrud Gilberto,1965,Jazz/Vocal,0.0045
+BFI_Agreeableness,high (> 3.66667),171,12.0906,0.0526,Hard Headed Women,Cat Stevens,1970,Rock/Alternative/Metal/Punk,0.0044
+BFI_Agreeableness,high (> 3.66667),54,11.9725,0.1187,Laughter in the rain,Earl Klugh,1976,Jazz/Vocal,0.0044
+BFI_Agreeableness,high (> 3.66667),68,11.9689,0.1252,Foolish,Ashanti,2002,R&B/Soul/Funk/Disco,0.0044
+BFI_Agreeableness,high (> 3.66667),289,11.9437,0.1326,Arirang,Trot,1964,World/International,0.0044
+BFI_Agreeableness,high (> 3.66667),223,11.855,-0.1284,For an Angel,Paul Van Dyk,1994,Electronic/Dance,0.0043
+BFI_Agreeableness,high (> 3.66667),5,11.7239,-0.0473,Blue Moon of Kentucky,Bill Monroe,1947,Country/Folk,0.0043
+BFI_Agreeableness,high (> 3.66667),314,11.6191,0.2588,Seinfeld Theme,Jonathan Wolff,1989,World/International,0.0042
+BFI_Agreeableness,high (> 3.66667),124,11.5767,0.3615,Can't Hold Us,Macklemore and Ryan Lewis featuring Ray Dalton,2013,Rap/Hiphop,0.0042
+BFI_Agreeableness,high (> 3.66667),83,11.4118,0.2849,With Or Without You,U2,1987,Rock/Alternative/Metal/Punk,0.0042
+BFI_Agreeableness,high (> 3.66667),293,10.628,-0.0849,Chera Nemiraghsi,Viguen,1991,World/International,0.0039
+BFI_Agreeableness,high (> 3.66667),26,10.4846,-0.0418,"Good Times, Bad Times",Led Zeppelin,1969,Rock/Alternative/Metal/Punk,0.0038
+BFI_Agreeableness,high (> 3.66667),213,10.4343,-0.0315,Lovesick Blues,Hank Williams,1948,Country/Folk,0.0038
+BFI_Agreeableness,high (> 3.66667),160,10.3441,0.1723,Get Busy,Sean Paul,2002,Pop/Mainstream,0.0038
+BFI_Agreeableness,high (> 3.66667),232,10.3088,0.1205,Confirmation,Charlie Parker Quartet,1946,Jazz/Vocal,0.0038
+BFI_Agreeableness,high (> 3.66667),12,9.9176,-0.0304,Sandstorm,Darude,1999,Electronic/Dance,0.0036
+BFI_Agreeableness,high (> 3.66667),162,9.8445,0.0776,Wheel of Fortune,Kay Starr,1952,Pop/Mainstream,0.0036
+BFI_Agreeableness,high (> 3.66667),18,9.5248,0.3492,"Sugar, Sugar",The Archies,1969,Pop/Mainstream,0.0035
+BFI_Agreeableness,high (> 3.66667),9,9.3091,0.1155,Independence Day,Martina McBride,1994,Country/Folk,0.0034
+BFI_Agreeableness,high (> 3.66667),73,9.2286,0.1854,Hypnotize,Notorious B.I.G.,1997,Rap/Hiphop,0.0034
+BFI_Agreeableness,high (> 3.66667),81,9.082,0.2758,How Am I Supposed To Live Without You?,Michael Bolton,1990,Rock/Alternative/Metal/Punk,0.0033
+BFI_Agreeableness,high (> 3.66667),2,8.7186,-0.1322,Four Seasons: Concerto No. 2 in G Minor,Antonio Vivaldi,1721,Classical/Opera/Soundtrack,0.0032
+BFI_Agreeableness,high (> 3.66667),106,8.6213,0.4461,Closer,The Chainsmokers featuring Halsey,2016,Pop/Mainstream,0.0031
+BFI_Agreeableness,high (> 3.66667),307,8.6004,0.2201,Harry Potter Theme (Hedwig's Theme),John Williams,2001,World/International,0.0031
+BFI_Agreeableness,high (> 3.66667),216,8.5605,0.0279,I've Got a Tiger by the Tail,Buck Owens,1965,Country/Folk,0.0031
+BFI_Agreeableness,high (> 3.66667),155,8.3923,0.1725,Lose Yourself,Eminem,2002,Rap/Hiphop,0.0031
+BFI_Agreeableness,high (> 3.66667),15,8.2932,0.0865,Dolphin Dance,Herbie Hancock,1966,Jazz/Vocal,0.003
+BFI_Agreeableness,high (> 3.66667),319,8.2819,-0.1083,Tetris,Alexey Pajitnov,1984,World/International,0.003
+BFI_Agreeableness,high (> 3.66667),231,8.233,0.2439,Take The A Train,Duke Ellington,1939,Jazz/Vocal,0.003
+BFI_Agreeableness,high (> 3.66667),225,8.0657,0.0363,Better Off Alone,Alice Deejay,1998,Electronic/Dance,0.0029
+BFI_Agreeableness,high (> 3.66667),63,7.9233,0.0462,Give It To Me,Timbaland,2007,Pop/Mainstream,0.0029
+BFI_Agreeableness,high (> 3.66667),251,7.8626,0.229,The Message,Grand Master Flash & The Furious Five,1982,Rap/Hiphop,0.0029
+BFI_Agreeableness,high (> 3.66667),215,7.8562,0.0015,Four Walls,Jim Reeves,1956,Country/Folk,0.0029
+BFI_Agreeableness,high (> 3.66667),217,7.7709,0.1848,I'm a Ramblin' Man,Waylon Jennings,1967,Country/Folk,0.0028
+BFI_Agreeableness,high (> 3.66667),297,7.6078,-0.0184,Whiskey In The Jar,The Dubliners,1968,World/International,0.0028
+BFI_Agreeableness,high (> 3.66667),6,7.4342,0.1987,Blowin' in the Wind,Bob Dylan,1963,Country/Folk,0.0027
+BFI_Agreeableness,high (> 3.66667),37,7.2377,0.1524,The Way You Look Tonight,Oscar Peterson,1959,Jazz/Vocal,0.0026
+BFI_Agreeableness,high (> 3.66667),272,6.964,0.2884,I Got You (I Feel Good),James Brown,1964,R&B/Soul/Funk/Disco,0.0025
+BFI_Agreeableness,high (> 3.66667),4,6.8516,-0.0728,Nessun Dorma,Luciano Pavarotti,1926,Classical/Opera/Soundtrack,0.0025
+BFI_Agreeableness,high (> 3.66667),318,6.7304,0.1784,Super Mario Bros World 1-1,Koji Kondo,1985,World/International,0.0025
+BFI_Agreeableness,high (> 3.66667),126,6.4969,0.1217,Somebody That I Used to Know,Gotye featuring Kimbra,2012,Pop/Mainstream,0.0024
+BFI_Agreeableness,high (> 3.66667),67,6.2889,0.0738,Oh! My Pa-Pa,Eddie Fisher,1954,Pop/Mainstream,0.0023
+BFI_Agreeableness,high (> 3.66667),114,6.0968,0.3788,Can't Feel My Face,The Weeknd,2015,Rap/Hiphop,0.0022
+BFI_Agreeableness,high (> 3.66667),129,6.0326,0.2497,One More Night,Maroon 5,2012,Rock/Alternative/Metal/Punk,0.0022
+BFI_Agreeableness,high (> 3.66667),152,5.8908,0.16,Heaven's Flames,Jim Lauderdale,1991,Country/Folk,0.0021
+BFI_Agreeableness,high (> 3.66667),273,5.7275,0.2981,You Can't Hurry Love,The Supremes,1966,R&B/Soul/Funk/Disco,0.0021
+BFI_Agreeableness,high (> 3.66667),282,5.6728,0.2855,Guantanamera,Celia Cruz,1966,World/International,0.0021
+BFI_Agreeableness,high (> 3.66667),172,5.6244,0.1902,Highway 61 Revisited,Bob Dylan,1965,Rock/Alternative/Metal/Punk,0.002
+BFI_Agreeableness,high (> 3.66667),13,5.5157,0.1038,Feel It All Around,Washed Out,2009,Electronic/Dance,0.002
+BFI_Agreeableness,high (> 3.66667),88,5.1149,0.178,The Tide Is High,Blondie,1981,Rock/Alternative/Metal/Punk,0.0019
+BFI_Agreeableness,high (> 3.66667),207,5.0205,0.0808,Clair De Lune,Claude Debussy,1905,Classical/Opera/Soundtrack,0.0018
+BFI_Agreeableness,high (> 3.66667),7,5.0068,0.2097,Folsom Prison Blues,Johnny Cash,1955,Country/Folk,0.0018
+BFI_Agreeableness,high (> 3.66667),264,5.0065,0.0704,If You Leave Me Now,Chicago,1976,Rock/Alternative/Metal/Punk,0.0018
+BFI_Agreeableness,high (> 3.66667),303,4.7896,-0.2475,Song With Didgeridoo,Australian Aboriginal People,0,World/International,0.0017
+BFI_Agreeableness,high (> 3.66667),49,4.7411,-0.1526,Where Eagles Dare,Iron Maiden,1983,Rock/Alternative/Metal/Punk,0.0017
+BFI_Agreeableness,high (> 3.66667),270,4.7272,0.0183,Karma Police,Radiohead,1997,Rock/Alternative/Metal/Punk,0.0017
+BFI_Agreeableness,high (> 3.66667),298,4.7167,0.1391,Mado,Émilie Vacher,1931,World/International,0.0017
+BFI_Agreeableness,high (> 3.66667),227,4.4109,0.1388,One More Time,Daft Punk,2000,Electronic/Dance,0.0016
+BFI_Agreeableness,high (> 3.66667),24,4.2729,0.1841,Truffle Butter,Nicki Minaj,2014,Rap/Hiphop,0.0016
+BFI_Agreeableness,high (> 3.66667),320,4.2482,-0.0878,Overworld (Zelda),Koji Kondo,1986,World/International,0.0015
+BFI_Agreeableness,high (> 3.66667),102,4.0389,0.3894,Perfect,Ed Sheeran,2017,Rock/Alternative/Metal/Punk,0.0015
+BFI_Agreeableness,high (> 3.66667),237,4.032,0.0879,Lonely Woman,Ornette Coleman,1959,Jazz/Vocal,0.0015
+BFI_Agreeableness,high (> 3.66667),195,3.9404,-0.3475,Beauiful People,Marilyn Manson,1996,Rock/Alternative/Metal/Punk,0.0014
+BFI_Agreeableness,high (> 3.66667),248,3.9029,0.2578,All The Small Things,Blink 182,2005,Pop/Mainstream,0.0014
+BFI_Agreeableness,high (> 3.66667),69,3.8325,0.1804,Ain't It Funny,Ja Rule & Jennifer Lopez,2002,R&B/Soul/Funk/Disco,0.0014
+BFI_Agreeableness,high (> 3.66667),99,3.7257,0.269,Everything is Beautiful,Ray Stevens,1970,Rock/Alternative/Metal/Punk,0.0014
+BFI_Agreeableness,high (> 3.66667),145,3.7035,0.2604,Whatcha Say,Jason Derulo,2009,Pop/Mainstream,0.0013
+BFI_Agreeableness,high (> 3.66667),74,3.6294,0.2467,One Sweet Day,Mariah Carey & Boyz II Men,1996,R&B/Soul/Funk/Disco,0.0013
+BFI_Agreeableness,high (> 3.66667),22,3.6091,0.0709,It Was A Good Day,Ice Cube,1993,Rap/Hiphop,0.0013
+BFI_Agreeableness,high (> 3.66667),151,3.6077,0.0945,Angela,Bob James,1978,Jazz/Vocal,0.0013
+BFI_Agreeableness,high (> 3.66667),280,3.5578,0.3157,Ignition (Remix),R. Kelly,2002,R&B/Soul/Funk/Disco,0.0013
+BFI_Agreeableness,high (> 3.66667),212,3.4583,0.0239,Wabash Cannonball,Roy Acuff,1932,Country/Folk,0.0013
+BFI_Agreeableness,high (> 3.66667),308,3.4481,0.0528,Lord of the Rings Theme,Howard Shore,2000,World/International,0.0013
+BFI_Agreeableness,high (> 3.66667),65,3.4243,0.1156,SexyBack,Justin Timberlake,2006,Pop/Mainstream,0.0012
+BFI_Agreeableness,high (> 3.66667),35,3.3852,0.1195,Symphony No. 1 in B Flat Major,William Boyce,1760,Classical/Opera/Soundtrack,0.0012
+BFI_Agreeableness,high (> 3.66667),249,3.2947,0.2003,Dani California,Red Hot Chili Peppers,2006,Pop/Mainstream,0.0012
+BFI_Agreeableness,high (> 3.66667),175,3.0258,-0.0251,Blue In Green,Miles Davis,1959,Jazz/Vocal,0.0011
+BFI_Agreeableness,high (> 3.66667),77,2.8524,0.1779,I Swear,All-4-One,1994,R&B/Soul/Funk/Disco,0.001
+BFI_Agreeableness,high (> 3.66667),27,2.8449,-0.2751,Enter Sandman,Metallica,1991,Rock/Alternative/Metal/Punk,0.001
+BFI_Agreeableness,high (> 3.66667),265,2.8179,0.2609,We Are The Champions,Queen,1977,Rock/Alternative/Metal/Punk,0.001
+BFI_Agreeableness,high (> 3.66667),166,2.8158,0.1956,Rag Mop,Ames Brothers,1950,Pop/Mainstream,0.001
+BFI_Agreeableness,high (> 3.66667),28,2.6079,-0.1222,Smells Like Teen Spirit,Nirvana,1991,Rock/Alternative/Metal/Punk,0.001
+BFI_Agreeableness,high (> 3.66667),47,2.5383,0.0504,Let the Mystery Be,Iris Dement,1992,Country/Folk,0.0009
+BFI_Agreeableness,high (> 3.66667),29,2.2489,0.2366,Hoochie Coochie Man,Muddy Waters,1954,R&B/Soul/Funk/Disco,0.0008
+BFI_Agreeableness,high (> 3.66667),244,2.2333,0.2834,Superstition,Stevie Wonder,1972,Pop/Mainstream,0.0008
+BFI_Agreeableness,high (> 3.66667),193,2.1386,0.0901,Hurt,Nine Inch Nails,1995,Rock/Alternative/Metal/Punk,0.0008
+BFI_Agreeableness,high (> 3.66667),214,1.8537,0.0813,I'm a Man of Constant Sorrow,The Stanley Brothers,1950,Country/Folk,0.0007
+BFI_Agreeableness,high (> 3.66667),206,1.7998,0.0317,Magic Flute,Mozart,1851,Classical/Opera/Soundtrack,0.0007
+BFI_Agreeableness,high (> 3.66667),218,1.6401,0.0488,On the Other Hand,Randy Travis,1986,Country/Folk,0.0006
+BFI_Agreeableness,high (> 3.66667),226,1.6138,0.0956,Porcelain,Moby,1999,Electronic/Dance,0.0006
+BFI_Agreeableness,high (> 3.66667),71,1.6016,0.2372,Bootylicious,Destiny's Child,2001,R&B/Soul/Funk/Disco,0.0006
+BFI_Agreeableness,high (> 3.66667),95,1.4672,0.0887,Top Of The World,Carpenters,1973,Rock/Alternative/Metal/Punk,0.0005
+BFI_Agreeableness,high (> 3.66667),32,1.1577,0.1712,What You Won't Do For Love,Bobby Caldwell,1978,R&B/Soul/Funk/Disco,0.0004
+BFI_Agreeableness,high (> 3.66667),260,1.0597,0.1842,Jumpman,Future and Drake,2017,Rap/Hiphop,0.0004
+BFI_Agreeableness,high (> 3.66667),211,1.0142,0.0277,Wildwood Flower,The Carter Family,1928,Country/Folk,0.0004
+BFI_Agreeableness,high (> 3.66667),203,1.0108,0.1181,Brandenburg Concerto No. 3,JS Bach,1700,Classical/Opera/Soundtrack,0.0004
+BFI_Agreeableness,high (> 3.66667),66,0.7804,0.1212,I Believe,Fantasia,2004,R&B/Soul/Funk/Disco,0.0003
+BFI_Agreeableness,high (> 3.66667),301,0.69,-0.1566,Sound of Wind,Inuit Throat And Harp Songs,0,World/International,0.0003
+BFI_Agreeableness,high (> 3.66667),89,0.6035,-0.0074,Magic,Olivia Newton-John,1980,Rock/Alternative/Metal/Punk,0.0002
+BFI_Agreeableness,high (> 3.66667),299,0.5045,-0.0632,I Riden Så,Gjallarhorn,1997,World/International,0.0002
+BFI_Agreeableness,high (> 3.66667),3,0.0,-0.137,Requiem in D Minor,Wolfgang Amadeus Mozart,1791,Classical/Opera/Soundtrack,0.0
+BFI_Agreeableness,high (> 3.66667),19,0.0,0.1417,Blue (Da Ba Dee),Eiffel 65,1999,Pop/Mainstream,0.0
+BFI_Agreeableness,high (> 3.66667),23,0.0,0.1673,Gin and Juice,Snoop Dogg,1993,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),55,0.0,0.1318,Intro,Ludacris,2004,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),64,0.0,0.1478,This Is Why I'm Hot,Mims,2007,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),72,0.0,0.2754,Truly Madly Deeply,Savage Garden,1998,Pop/Mainstream,0.0
+BFI_Agreeableness,high (> 3.66667),122,0.0,0.2854,Thrift Shop,Macklemore & Ryan Lewis featuring Wanz,2013,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),139,0.0,0.3626,California Gurls,Katy Perry featuring Snoop Dogg,2010,Pop/Mainstream,0.0
+BFI_Agreeableness,high (> 3.66667),142,0.0,0.3406,I Gotta Feeling,The Black Eyed Peas,2009,Electronic/Dance,0.0
+BFI_Agreeableness,high (> 3.66667),147,0.0,0.258,Lollipop,Lil Wayne featuring Static Major,2008,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),148,0.0,0.3418,So What,Pink,2008,Electronic/Dance,0.0
+BFI_Agreeableness,high (> 3.66667),153,0.0,0.2127,Baby Got Back,Sir Mix A Lot,1992,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),163,0.0,0.2562,Take Me In Your Arms,Dean Martin,1970,Pop/Mainstream,0.0
+BFI_Agreeableness,high (> 3.66667),167,0.0,0.099,Oh Darlin,The Okanes,1986,Country/Folk,0.0
+BFI_Agreeableness,high (> 3.66667),186,0.0,-0.0793,The Ripper,Judas Priest,1976,Rock/Alternative/Metal/Punk,0.0
+BFI_Agreeableness,high (> 3.66667),190,0.0,-0.2833,Piece By Piece,Slayer,1986,Rock/Alternative/Metal/Punk,0.0
+BFI_Agreeableness,high (> 3.66667),192,0.0,0.0195,Disarm,Smashing Pumpkins,1994,Rock/Alternative/Metal/Punk,0.0
+BFI_Agreeableness,high (> 3.66667),222,0.0,0.0745,I Want You (Forever),Carl Cox,1991,Electronic/Dance,0.0
+BFI_Agreeableness,high (> 3.66667),252,0.0,0.0044,Paid In Full,Erik B & Rakim,1987,Rap/Hiphop,0.0
+BFI_Agreeableness,high (> 3.66667),271,0.0,0.1501,I'm A Man,Bo Diddley,1955,R&B/Soul/Funk/Disco,0.0
+BFI_Agreeableness,high (> 3.66667),286,0.0,0.0832,Ghana-Guinea-Mali,E.T. Mensah,1991,World/International,0.0
+BFI_Agreeableness,high (> 3.66667),291,0.0,-0.0058,Dance of the Golden Snake,Nie Er,1934,World/International,0.0
+BFI_Agreeableness,high (> 3.66667),309,0.0,0.0692,James Bond Theme,Monty Norman,1962,World/International,0.0
+BFI_Agreeableness,high (> 3.66667),310,0.0,0.2937,Indiana Jones Theme,John Williams,1981,World/International,0.0
+BFI_Agreeableness,high (> 3.66667),316,0.0,0.0836,Law and Order Theme,Mike Post,1994,World/International,0.0
+BFI_Agreeableness,high (> 3.66667),317,0.0,-0.0242,Star Trek Original Series Theme,Alexander Courage,1969,World/International,0.0
+BFI_Conscientiousness,high (> 3.33333),87,190.3089,0.0483,Abracadabra,The Steve Miller Band,1982,Rock/Alternative/Metal/Punk,0.1888
+BFI_Conscientiousness,high (> 3.33333),204,179.6924,0.2386,Fur Elise,Ludwig Van Beethoven,1810,Classical/Opera/Soundtrack,0.1782
+BFI_Conscientiousness,high (> 3.33333),303,144.5052,-0.263,Song With Didgeridoo,Australian Aboriginal People,0,World/International,0.1433
+BFI_Conscientiousness,high (> 3.33333),228,123.8942,-0.2018,Tonight,"Headhunterz,Wildstylez & Noisecontrollers",2009,Electronic/Dance,0.1229
+BFI_Conscientiousness,high (> 3.33333),109,123.857,0.3103,Cheap Thrills,Sia featuring Sean Paul,2016,Pop/Mainstream,0.1228
+BFI_Conscientiousness,high (> 3.33333),248,114.1237,0.1771,All The Small Things,Blink 182,2005,Pop/Mainstream,0.1132
+BFI_Conscientiousness,high (> 3.33333),189,76.9973,-0.2456,Seek And Destroy,Metallica,1983,Rock/Alternative/Metal/Punk,0.0764
+BFI_Conscientiousness,high (> 3.33333),216,54.8577,-0.1322,I've Got a Tiger by the Tail,Buck Owens,1965,Country/Folk,0.0544
+BFI_Extraversion,high (≥ 3.125),105,166.6076,0.5731,Despacito,Luis Fonsi and Daddy Yankee featuring Justin Bieber,2017,Pop/Mainstream,0.1462
+BFI_Extraversion,high (≥ 3.125),79,164.4116,0.4313,Gonna Make You Sweat (Everybody Dance Now),C&C Music Factory,1991,Pop/Mainstream,0.1442
+BFI_Extraversion,high (≥ 3.125),123,109.5723,0.4858,Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,2013,Pop/Mainstream,0.0961
+BFI_Extraversion,high (≥ 3.125),107,101.1203,0.5455,One Dance,Drake featuring Wizkid and Kyla,2016,Rap/Hiphop,0.0887
+BFI_Extraversion,high (≥ 3.125),318,89.6877,-0.0857,Super Mario Bros World 1-1,Koji Kondo,1985,World/International,0.0787
+BFI_Extraversion,high (≥ 3.125),172,89.37,0.2234,Highway 61 Revisited,Bob Dylan,1965,Rock/Alternative/Metal/Punk,0.0784
+BFI_Extraversion,high (≥ 3.125),264,86.6383,0.2224,If You Leave Me Now,Chicago,1976,Rock/Alternative/Metal/Punk,0.076
+BFI_Extraversion,high (≥ 3.125),229,84.9906,0.1369,Scary Monsters and Nice Sprites,Skrillex,2010,Electronic/Dance,0.0746
+BFI_Extraversion,high (≥ 3.125),205,70.1926,0.2125,Nocturne op. 9 no. 2,Frederic Chopin,1830,Classical/Opera/Soundtrack,0.0616
+BFI_Extraversion,high (≥ 3.125),280,65.2869,0.4332,Ignition (Remix),R. Kelly,2002,R&B/Soul/Funk/Disco,0.0573
+BFI_Extraversion,high (≥ 3.125),319,59.4668,-0.2231,Tetris,Alexey Pajitnov,1984,World/International,0.0522
+BFI_Extraversion,high (≥ 3.125),74,52.6134,0.3552,One Sweet Day,Mariah Carey & Boyz II Men,1996,R&B/Soul/Funk/Disco,0.0462
+BFI_Neuroticism,high (> 3.375),276,729.1512,-0.0349,Stayin' Alive,Bee Gees,1977,R&B/Soul/Funk/Disco,0.1465
+BFI_Neuroticism,high (> 3.375),123,694.434,-0.326,Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,2013,Pop/Mainstream,0.1395
+BFI_Neuroticism,high (> 3.375),91,679.8699,-0.3281,Happy,Pharrell Williams,2013,Pop/Mainstream,0.1366
+BFI_Neuroticism,high (> 3.375),300,649.4346,-0.123,Kalinka-Malinka,Ivan Larionov,1860,World/International,0.1305
+BFI_Neuroticism,high (> 3.375),246,623.8307,0.2546,Bye bye bye,NSYNC,1998,Pop/Mainstream,0.1254
+BFI_Neuroticism,high (> 3.375),69,593.7369,0.1154,Ain't It Funny,Ja Rule & Jennifer Lopez,2002,R&B/Soul/Funk/Disco,0.1193
+BFI_Neuroticism,high (> 3.375),130,536.6054,0.1698,Locked Out of Heaven,Bruno Mars,2012,Pop/Mainstream,0.1078
+BFI_Neuroticism,high (> 3.375),179,469.3053,-0.1641,Dunkelheit,Burzum,1996,Rock/Alternative/Metal/Punk,0.0943
+BFI_Openness,high (> 3.8),235,726.7024,0.7177,So What,Miles Davis,1959,Jazz/Vocal,0.0516
+BFI_Openness,high (> 3.8),236,653.8519,0.6984,Take Five,Dave Brubeck Quartet,1959,Jazz/Vocal,0.0464
+BFI_Openness,high (> 3.8),258,390.8864,0.4822,Accordion,Madvillain,2004,Rap/Hiphop,0.0278
+BFI_Openness,high (> 3.8),162,333.2854,0.7316,Wheel of Fortune,Kay Starr,1952,Pop/Mainstream,0.0237
+BFI_Openness,high (> 3.8),3,306.3137,0.5974,Requiem in D Minor,Wolfgang Amadeus Mozart,1791,Classical/Opera/Soundtrack,0.0217
+BFI_Openness,high (> 3.8),73,278.8547,0.457,Hypnotize,Notorious B.I.G.,1997,Rap/Hiphop,0.0198
+BFI_Openness,high (> 3.8),100,253.128,0.5576,Get Back,The Beatles w/ Billy Preston,1969,Rock/Alternative/Metal/Punk,0.018
+BFI_Openness,high (> 3.8),37,249.4722,0.6704,The Way You Look Tonight,Oscar Peterson,1959,Jazz/Vocal,0.0177
+BFI_Openness,high (> 3.8),33,238.6734,0.637,Afro Blue,Robert Glasper feat Erykah Badu,2012,R&B/Soul/Funk/Disco,0.0169
+BFI_Openness,high (> 3.8),265,225.466,0.3713,We Are The Champions,Queen,1977,Rock/Alternative/Metal/Punk,0.016
+BFI_Openness,high (> 3.8),242,191.4105,0.6787,I Wanna Hold Your Hand,Beatles,1964,Pop/Mainstream,0.0136
+BFI_Openness,high (> 3.8),279,186.8479,0.4431,On And On,Erykah Badu,1997,R&B/Soul/Funk/Disco,0.0133
+BFI_Openness,high (> 3.8),11,173.0097,0.1857,Satisfaction,Benny Benassi,2002,Electronic/Dance,0.0123
+BFI_Openness,high (> 3.8),134,155.7165,-0.1678,E.T.,Katy Perry featuring Kanye West,2011,Pop/Mainstream,0.0111
+BFI_Openness,high (> 3.8),151,153.1167,0.5827,Angela,Bob James,1978,Jazz/Vocal,0.0109
+BFI_Openness,high (> 3.8),157,149.4996,-0.1196,Money For Nothing,Dire Straigts,1988,Rock/Alternative/Metal/Punk,0.0106
+BFI_Openness,high (> 3.8),247,148.3461,-0.2744,Forever,Chris Brown,2007,Pop/Mainstream,0.0105
+BFI_Openness,high (> 3.8),25,140.7828,0.6553,Lucy In The Sky With Diamonds,The Beatles,1967,Rock/Alternative/Metal/Punk,0.01
+BFI_Openness,high (> 3.8),188,139.9793,0.4669,Ride of the Valkyries,Richard Wagner,1856,Classical/Opera/Soundtrack,0.0099
+BFI_Openness,high (> 3.8),226,138.2167,0.5399,Porcelain,Moby,1999,Electronic/Dance,0.0098
+BFI_Openness,high (> 3.8),291,136.1921,0.3406,Dance of the Golden Snake,Nie Er,1934,World/International,0.0097
+BFI_Openness,high (> 3.8),187,130.8065,0.3531,Diary of a Madman,Ozzy Osbourne,1981,Rock/Alternative/Metal/Punk,0.0093
+BFI_Openness,high (> 3.8),160,130.416,-0.1223,Get Busy,Sean Paul,2002,Pop/Mainstream,0.0093
+BFI_Openness,high (> 3.8),238,125.9909,0.6506,The Girl From Ipanema,Stan Getz & Astrud Gilberto,1965,Jazz/Vocal,0.0089
+BFI_Openness,high (> 3.8),46,125.6022,-0.2918,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.0089
+BFI_Openness,high (> 3.8),150,118.419,0.1329,Love in This Club,Usher featuring Young Jeezy,2008,Pop/Mainstream,0.0084
+BFI_Openness,high (> 3.8),124,114.6602,-0.1889,Can't Hold Us,Macklemore and Ryan Lewis featuring Ray Dalton,2013,Rap/Hiphop,0.0081
+BFI_Openness,high (> 3.8),1,111.214,0.5056,Je Vous Pri Que J'Aye un Baysier,Richard Loqueville,1418,Classical/Opera/Soundtrack,0.0079
+BFI_Openness,high (> 3.8),306,110.6148,0.4002,Star Wars Theme,John Williams,1992,World/International,0.0079
+BFI_Openness,high (> 3.8),274,109.8403,0.6341,Let's Stay Together,Al Green,1972,R&B/Soul/Funk/Disco,0.0078
+BFI_Openness,high (> 3.8),131,109.0924,-0.2499,Party Rock Anthem,LMFAO featuring Lauren Bennett and GoonRock,2011,Electronic/Dance,0.0077
+BFI_Openness,high (> 3.8),309,101.7612,0.5774,James Bond Theme,Monty Norman,1962,World/International,0.0072
+BFI_Openness,high (> 3.8),237,101.7433,0.5812,Lonely Woman,Ornette Coleman,1959,Jazz/Vocal,0.0072
+BFI_Openness,high (> 3.8),253,99.7779,0.4909,The World Is Yours,Nas,1994,Rap/Hiphop,0.0071
+BFI_Openness,high (> 3.8),123,97.5421,-0.1345,Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,2013,Pop/Mainstream,0.0069
+BFI_Openness,high (> 3.8),193,96.4328,0.4498,Hurt,Nine Inch Nails,1995,Rock/Alternative/Metal/Punk,0.0068
+BFI_Openness,high (> 3.8),233,96.1942,0.6201,La Vie En Rose,Louis Armstrong,1950,Jazz/Vocal,0.0068
+BFI_Openness,high (> 3.8),213,96.1271,0.4673,Lovesick Blues,Hank Williams,1948,Country/Folk,0.0068
+BFI_Openness,high (> 3.8),6,91.7157,0.3752,Blowin' in the Wind,Bob Dylan,1963,Country/Folk,0.0065
+BFI_Openness,high (> 3.8),215,88.1969,0.4659,Four Walls,Jim Reeves,1956,Country/Folk,0.0063
+BFI_Openness,high (> 3.8),83,85.7445,0.3419,With Or Without You,U2,1987,Rock/Alternative/Metal/Punk,0.0061
+BFI_Openness,high (> 3.8),75,85.393,0.3331,Exhale (Shoop Shoop),Whitney Houston,1995,R&B/Soul/Funk/Disco,0.0061
+BFI_Openness,high (> 3.8),145,83.9454,0.0503,Whatcha Say,Jason Derulo,2009,Pop/Mainstream,0.006
+BFI_Openness,high (> 3.8),171,83.7308,-0.0542,Hard Headed Women,Cat Stevens,1970,Rock/Alternative/Metal/Punk,0.0059
+BFI_Openness,high (> 3.8),183,80.864,0.5603,Helter Skelter,The Beatles,1968,Rock/Alternative/Metal/Punk,0.0057
+BFI_Openness,high (> 3.8),140,80.8306,-0.2662,Break Your Heart,Taio Cruz featuring Ludacris,2010,Pop/Mainstream,0.0057
+BFI_Openness,high (> 3.8),249,79.2297,0.4525,Dani California,Red Hot Chili Peppers,2006,Pop/Mainstream,0.0056
+BFI_Openness,high (> 3.8),269,77.3904,0.2289,Round and Round,Ratt,1987,Rock/Alternative/Metal/Punk,0.0055
+BFI_Openness,high (> 3.8),220,76.6935,-0.1497,Come Pick Me Up,Ryan Adams,2000,Country/Folk,0.0054
+BFI_Openness,high (> 3.8),61,76.3262,-0.0295,"""3""",Britney Spears,2009,Pop/Mainstream,0.0054
+BFI_Openness,high (> 3.8),317,74.0734,0.3303,Star Trek Original Series Theme,Alexander Courage,1969,World/International,0.0053
+BFI_Openness,high (> 3.8),192,72.4761,0.3239,Disarm,Smashing Pumpkins,1994,Rock/Alternative/Metal/Punk,0.0051
+BFI_Openness,high (> 3.8),225,68.1074,0.0185,Better Off Alone,Alice Deejay,1998,Electronic/Dance,0.0048
+BFI_Openness,high (> 3.8),116,67.8136,-0.261,Rude,Magic!,2014,Pop/Mainstream,0.0048
+BFI_Openness,high (> 3.8),10,65.9624,0.2559,Music Sounds Better With You,Stardust,1998,Electronic/Dance,0.0047
+BFI_Openness,high (> 3.8),314,65.583,0.484,Seinfeld Theme,Jonathan Wolff,1989,World/International,0.0047
+BFI_Openness,high (> 3.8),102,64.854,-0.4144,Perfect,Ed Sheeran,2017,Rock/Alternative/Metal/Punk,0.0046
+BFI_Openness,high (> 3.8),170,64.4962,0.5332,I Had The Craziest Dream,Harry James,1942,Pop/Mainstream,0.0046
+BFI_Openness,high (> 3.8),96,64.3565,0.1638,Ben,Michael Jackson,1972,R&B/Soul/Funk/Disco,0.0046
+BFI_Openness,high (> 3.8),53,63.9214,-0.0382,Heute Nact,Brigitte,2002,Pop/Mainstream,0.0045
+BFI_Openness,high (> 3.8),288,63.0737,0.4971,Shinamania,Shina Peters,1989,World/International,0.0045
+BFI_Openness,high (> 3.8),169,63.0252,0.4515,Sleepwalk,Santo And Johnny,1959,Pop/Mainstream,0.0045
+BFI_Openness,high (> 3.8),119,62.3372,-0.0013,Dark Horse,Katy Perry featuring Juicy J,2014,Pop/Mainstream,0.0044
+BFI_Openness,high (> 3.8),312,61.2049,0.317,20th Century Fox (Fanfare),Alfred Newman,1933,World/International,0.0043
+BFI_Openness,high (> 3.8),92,60.6274,0.5312,Shadow Dancing,Andy Gibb,1978,R&B/Soul/Funk/Disco,0.0043
+BFI_Openness,high (> 3.8),137,60.235,-0.2779,Firework,Katy Perry,2010,Pop/Mainstream,0.0043
+BFI_Openness,high (> 3.8),307,60.218,0.3933,Harry Potter Theme (Hedwig's Theme),John Williams,2001,World/International,0.0043
+BFI_Openness,high (> 3.8),296,59.8476,0.191,Haperach Begani (The Flower in My Garden),Zohar Argov,1982,World/International,0.0042
+BFI_Openness,high (> 3.8),108,59.6076,0.0405,Work,Rihanna featuring Drake,2016,Rap/Hiphop,0.0042
+BFI_Openness,high (> 3.8),104,59.4213,-0.172,That's What I Like,Bruno Mars,2017,R&B/Soul/Funk/Disco,0.0042
+BFI_Openness,high (> 3.8),206,58.5237,0.3926,Magic Flute,Mozart,1851,Classical/Opera/Soundtrack,0.0042
+BFI_Openness,high (> 3.8),223,57.718,0.1391,For an Angel,Paul Van Dyk,1994,Electronic/Dance,0.0041
+BFI_Openness,high (> 3.8),115,57.1025,-0.0028,Hello,Adele,2015,Pop/Mainstream,0.0041
+BFI_Openness,high (> 3.8),129,55.6955,-0.2976,One More Night,Maroon 5,2012,Rock/Alternative/Metal/Punk,0.004
+BFI_Openness,high (> 3.8),251,55.3332,0.4042,The Message,Grand Master Flash & The Furious Five,1982,Rap/Hiphop,0.0039
+BFI_Openness,high (> 3.8),267,55.058,0.4878,Heart Of Glass,Blondie,1978,Rock/Alternative/Metal/Punk,0.0039
+BFI_Openness,high (> 3.8),252,55.0333,0.4777,Paid In Full,Erik B & Rakim,1987,Rap/Hiphop,0.0039
+BFI_Openness,high (> 3.8),148,52.8189,-0.0672,So What,Pink,2008,Electronic/Dance,0.0038
+BFI_Openness,high (> 3.8),147,52.4081,0.1201,Lollipop,Lil Wayne featuring Static Major,2008,Rap/Hiphop,0.0037
+BFI_Openness,high (> 3.8),9,51.8403,-0.1516,Independence Day,Martina McBride,1994,Country/Folk,0.0037
+BFI_Openness,high (> 3.8),8,51.7159,0.0309,Man! I Feel Like a Woman!,Shania Twain,1997,Country/Folk,0.0037
+BFI_Openness,high (> 3.8),228,50.042,0.1046,Tonight,"Headhunterz,Wildstylez & Noisecontrollers",2009,Electronic/Dance,0.0036
+BFI_Openness,high (> 3.8),7,48.8978,0.3264,Folsom Prison Blues,Johnny Cash,1955,Country/Folk,0.0035
+BFI_Openness,high (> 3.8),47,48.5555,0.0108,Let the Mystery Be,Iris Dement,1992,Country/Folk,0.0034
+BFI_Openness,high (> 3.8),229,48.549,0.1154,Scary Monsters and Nice Sprites,Skrillex,2010,Electronic/Dance,0.0034
+BFI_Openness,high (> 3.8),294,47.9603,0.3916,Aap Jaisa Koi,Nazia Hassan,1980,World/International,0.0034
+BFI_Openness,high (> 3.8),263,47.5041,0.3285,Iron Man,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0034
+BFI_Openness,high (> 3.8),319,47.3898,0.0537,Tetris,Alexey Pajitnov,1984,World/International,0.0034
+BFI_Openness,high (> 3.8),283,47.1171,0.3695,Pressure Drop,Toots & The Maytals,1969,World/International,0.0033
+BFI_Openness,high (> 3.8),26,46.9544,0.2228,"Good Times, Bad Times",Led Zeppelin,1969,Rock/Alternative/Metal/Punk,0.0033
+BFI_Openness,high (> 3.8),264,46.162,0.3992,If You Leave Me Now,Chicago,1976,Rock/Alternative/Metal/Punk,0.0033
+BFI_Openness,high (> 3.8),241,44.0036,0.2999,Jailhouse Rock,Elvis Presley,1957,Pop/Mainstream,0.0031
+BFI_Openness,high (> 3.8),209,43.5928,0.4078,Rubric,Philip Glass,1981,Classical/Opera/Soundtrack,0.0031
+BFI_Openness,high (> 3.8),255,43.3344,0.3677,Player's Ball,Outkast,1994,Rap/Hiphop,0.0031
+BFI_Openness,high (> 3.8),216,43.3287,0.203,I've Got a Tiger by the Tail,Buck Owens,1965,Country/Folk,0.0031
+BFI_Openness,high (> 3.8),141,42.4658,-0.2077,Down,Jay Sean featuring Lil Wayne,2009,Pop/Mainstream,0.003
+BFI_Openness,high (> 3.8),316,42.3987,0.2958,Law and Order Theme,Mike Post,1994,World/International,0.003
+BFI_Openness,high (> 3.8),164,41.8748,0.1476,Lately,Divine,1998,R&B/Soul/Funk/Disco,0.003
+BFI_Openness,high (> 3.8),268,41.6436,0.5381,This Charming Man,The Smiths,1984,Rock/Alternative/Metal/Punk,0.003
+BFI_Openness,high (> 3.8),165,41.0689,0.4906,"Monday, Monday",The Mamas & The Papas,1966,Rock/Alternative/Metal/Punk,0.0029
+BFI_Openness,high (> 3.8),136,39.9351,-0.2121,Just the Way You Are,Bruno Mars,2010,Pop/Mainstream,0.0028
+BFI_Openness,high (> 3.8),285,39.216,0.287,Zombie,Fela Kuti,1976,World/International,0.0028
+BFI_Openness,high (> 3.8),12,39.1494,0.2308,Sandstorm,Darude,1999,Electronic/Dance,0.0028
+BFI_Openness,high (> 3.8),230,39.13,-0.23,Levels,Avicii,2011,Electronic/Dance,0.0028
+BFI_Openness,high (> 3.8),276,38.8505,0.5082,Stayin' Alive,Bee Gees,1977,R&B/Soul/Funk/Disco,0.0028
+BFI_Openness,high (> 3.8),13,38.5999,0.421,Feel It All Around,Washed Out,2009,Electronic/Dance,0.0027
+BFI_Openness,high (> 3.8),313,38.559,0.3293,Game of Thrones Theme,Ramin Djawadi,2011,World/International,0.0027
+BFI_Openness,high (> 3.8),156,37.8974,-0.1409,What Do You Mean?,Justin Bieber,2015,Pop/Mainstream,0.0027
+BFI_Openness,high (> 3.8),254,37.6348,0.238,Aint Nuthin' But a G Thang,Dr. Dre & Snoop Dog,1992,Rap/Hiphop,0.0027
+BFI_Openness,high (> 3.8),300,36.1513,0.2453,Kalinka-Malinka,Ivan Larionov,1860,World/International,0.0026
+BFI_Openness,high (> 3.8),195,35.743,0.3128,Beauiful People,Marilyn Manson,1996,Rock/Alternative/Metal/Punk,0.0025
+BFI_Openness,high (> 3.8),74,35.6175,0.1532,One Sweet Day,Mariah Carey & Boyz II Men,1996,R&B/Soul/Funk/Disco,0.0025
+BFI_Openness,high (> 3.8),189,35.2932,0.3674,Seek And Destroy,Metallica,1983,Rock/Alternative/Metal/Punk,0.0025
+BFI_Openness,high (> 3.8),68,34.8451,0.2438,Foolish,Ashanti,2002,R&B/Soul/Funk/Disco,0.0025
+BFI_Openness,high (> 3.8),186,33.9155,-0.0028,The Ripper,Judas Priest,1976,Rock/Alternative/Metal/Punk,0.0024
+BFI_Openness,high (> 3.8),111,33.6627,0.0473,The Hills,The Weeknd,2015,Rap/Hiphop,0.0024
+BFI_Openness,high (> 3.8),271,33.6027,0.2336,I'm A Man,Bo Diddley,1955,R&B/Soul/Funk/Disco,0.0024
+BFI_Openness,high (> 3.8),185,33.532,0.4443,Hell's Bells,AC/DC,1980,Rock/Alternative/Metal/Punk,0.0024
+BFI_Openness,high (> 3.8),315,33.5178,0.239,Happy Days Theme,Norman Gimbel and Charles Fox,1976,World/International,0.0024
+BFI_Openness,high (> 3.8),178,32.7022,0.5292,Bite It You Scum,gg allin,1990,Rock/Alternative/Metal/Punk,0.0023
+BFI_Openness,high (> 3.8),142,32.5865,-0.0536,I Gotta Feeling,The Black Eyed Peas,2009,Electronic/Dance,0.0023
+BFI_Openness,high (> 3.8),69,32.5068,0.1595,Ain't It Funny,Ja Rule & Jennifer Lopez,2002,R&B/Soul/Funk/Disco,0.0023
+BFI_Openness,high (> 3.8),244,32.4792,0.555,Superstition,Stevie Wonder,1972,Pop/Mainstream,0.0023
+BFI_Openness,high (> 3.8),4,32.3975,0.459,Nessun Dorma,Luciano Pavarotti,1926,Classical/Opera/Soundtrack,0.0023
+BFI_Openness,high (> 3.8),305,32.1245,0.3723,Maori Haka,New Zealand Maori Warrior Chant,0,World/International,0.0023
+BFI_Openness,high (> 3.8),234,32.0769,0.4738,Come Fly With Me,Frank Sinatra,1957,Jazz/Vocal,0.0023
+BFI_Openness,high (> 3.8),40,31.859,0.2333,You Brought Me Up,Meav,2003,World/International,0.0023
+BFI_Openness,high (> 3.8),128,31.5953,0.0005,We Are Young,Fun featuring Janelle Monáe,2012,Rock/Alternative/Metal/Punk,0.0022
+BFI_Openness,high (> 3.8),70,31.462,0.2824,Family Affair,Mary J. Blige,2001,R&B/Soul/Funk/Disco,0.0022
+BFI_Openness,high (> 3.8),105,30.8732,-0.1633,Despacito,Luis Fonsi and Daddy Yankee featuring Justin Bieber,2017,Pop/Mainstream,0.0022
+BFI_Openness,high (> 3.8),272,30.62,0.3538,I Got You (I Feel Good),James Brown,1964,R&B/Soul/Funk/Disco,0.0022
+BFI_Openness,high (> 3.8),181,30.5597,0.1837,tsutomu miyazaki,Gnaw Their Tongues,2010,Rock/Alternative/Metal/Punk,0.0022
+BFI_Openness,high (> 3.8),101,30.1091,-0.2023,Rockstar,Post Malone featuring 21 Savage,2017,Rap/Hiphop,0.0021
+BFI_Openness,high (> 3.8),118,28.7994,-0.314,All of Me,John Legend,2014,Pop/Mainstream,0.002
+BFI_Openness,high (> 3.8),308,28.6565,0.2233,Lord of the Rings Theme,Howard Shore,2000,World/International,0.002
+BFI_Openness,high (> 3.8),49,28.6302,0.3669,Where Eagles Dare,Iron Maiden,1983,Rock/Alternative/Metal/Punk,0.002
+BFI_Openness,high (> 3.8),143,28.6273,-0.177,Boom Boom Pow,The Black Eyed Peas,2009,Pop/Mainstream,0.002
+BFI_Openness,high (> 3.8),280,28.6222,0.1038,Ignition (Remix),R. Kelly,2002,R&B/Soul/Funk/Disco,0.002
+BFI_Openness,high (> 3.8),2,28.3868,0.5054,Four Seasons: Concerto No. 2 in G Minor,Antonio Vivaldi,1721,Classical/Opera/Soundtrack,0.002
+BFI_Openness,high (> 3.8),112,27.9993,-0.1768,Sugar,Maroon 5,2015,Rock/Alternative/Metal/Punk,0.002
+BFI_Openness,high (> 3.8),22,27.869,0.4761,It Was A Good Day,Ice Cube,1993,Rap/Hiphop,0.002
+BFI_Openness,high (> 3.8),218,27.8586,-0.0449,On the Other Hand,Randy Travis,1986,Country/Folk,0.002
+BFI_Openness,high (> 3.8),5,27.1216,0.3042,Blue Moon of Kentucky,Bill Monroe,1947,Country/Folk,0.0019
+BFI_Openness,high (> 3.8),175,26.9195,0.744,Blue In Green,Miles Davis,1959,Jazz/Vocal,0.0019
+BFI_Openness,high (> 3.8),173,26.7344,0.329,The Goldberg Variations,J.S.Bach,1741,Classical/Opera/Soundtrack,0.0019
+BFI_Openness,high (> 3.8),138,26.7017,-0.1247,OMG,Usher featuring will.i.am,2010,Electronic/Dance,0.0019
+BFI_Openness,high (> 3.8),214,26.5086,0.3581,I'm a Man of Constant Sorrow,The Stanley Brothers,1950,Country/Folk,0.0019
+BFI_Openness,high (> 3.8),260,26.5,0.1163,Jumpman,Future and Drake,2017,Rap/Hiphop,0.0019
+BFI_Openness,high (> 3.8),282,25.9016,0.3986,Guantanamera,Celia Cruz,1966,World/International,0.0018
+BFI_Openness,high (> 3.8),299,25.8199,0.415,I Riden Så,Gjallarhorn,1997,World/International,0.0018
+BFI_Openness,high (> 3.8),217,25.6923,0.2286,I'm a Ramblin' Man,Waylon Jennings,1967,Country/Folk,0.0018
+BFI_Openness,high (> 3.8),155,25.6667,0.0355,Lose Yourself,Eminem,2002,Rap/Hiphop,0.0018
+BFI_Openness,high (> 3.8),284,25.0938,0.5412,As Rosas Nao Falam,Cartola,1976,World/International,0.0018
+BFI_Openness,high (> 3.8),257,24.8722,0.3103,Good Life,Kanye West ft. T-Pain,2007,Rap/Hiphop,0.0018
+BFI_Openness,high (> 3.8),97,24.8615,-0.0037,"Gypsies, Tramps, And Thieves",Cher,1971,Rock/Alternative/Metal/Punk,0.0018
+BFI_Openness,high (> 3.8),259,24.7714,0.0654,Gucci Gang,Lil Pump,2017,Rap/Hiphop,0.0018
+BFI_Openness,high (> 3.8),117,24.7424,0.2024,Take Me to Church,Hozier,2014,Rock/Alternative/Metal/Punk,0.0018
+BFI_Openness,high (> 3.8),204,24.7199,0.3041,Fur Elise,Ludwig Van Beethoven,1810,Classical/Opera/Soundtrack,0.0018
+BFI_Openness,high (> 3.8),203,23.947,0.2111,Brandenburg Concerto No. 3,JS Bach,1700,Classical/Opera/Soundtrack,0.0017
+BFI_Openness,high (> 3.8),232,23.7418,0.6128,Confirmation,Charlie Parker Quartet,1946,Jazz/Vocal,0.0017
+BFI_Openness,high (> 3.8),122,23.7146,-0.0711,Thrift Shop,Macklemore & Ryan Lewis featuring Wanz,2013,Rap/Hiphop,0.0017
+BFI_Openness,high (> 3.8),208,23.3506,0.4151,The Rite Of Spring,Igor Stravinsky,1913,Classical/Opera/Soundtrack,0.0017
+BFI_Openness,high (> 3.8),202,23.3438,0.404,Missa Hercules Dux Ferrariae - Sanctus,Josquin des Prez,1500,Classical/Opera/Soundtrack,0.0017
+BFI_Openness,high (> 3.8),106,21.9438,-0.4656,Closer,The Chainsmokers featuring Halsey,2016,Pop/Mainstream,0.0016
+BFI_Openness,high (> 3.8),21,21.8612,-0.256,Shake it Off,Taylor Swift,2014,Pop/Mainstream,0.0016
+BFI_Openness,high (> 3.8),110,21.8083,0.1117,Panda,Desiigner,2016,Rap/Hiphop,0.0015
+BFI_Openness,high (> 3.8),127,21.7765,-0.1374,Call Me Maybe,Carly Rae Jepsen,2012,Pop/Mainstream,0.0015
+BFI_Openness,high (> 3.8),30,21.6673,0.3897,Three Little Birds,Bob Marley,1980,R&B/Soul/Funk/Disco,0.0015
+BFI_Openness,high (> 3.8),239,21.4993,0.5699,Footprints,Wayne Shorter,1965,Jazz/Vocal,0.0015
+BFI_Openness,high (> 3.8),219,21.2773,-0.1033,A Little Bit Stronger,Sara Evans,2010,Country/Folk,0.0015
+BFI_Openness,high (> 3.8),227,21.2548,0.0634,One More Time,Daft Punk,2000,Electronic/Dance,0.0015
+BFI_Openness,high (> 3.8),109,21.2137,-0.0112,Cheap Thrills,Sia featuring Sean Paul,2016,Pop/Mainstream,0.0015
+BFI_Openness,high (> 3.8),270,20.8708,0.3988,Karma Police,Radiohead,1997,Rock/Alternative/Metal/Punk,0.0015
+BFI_Openness,high (> 3.8),45,20.7685,0.2836,That Lucky Old Sun,Frankie Laine,1958,Country/Folk,0.0015
+BFI_Openness,high (> 3.8),172,20.7112,0.3825,Highway 61 Revisited,Bob Dylan,1965,Rock/Alternative/Metal/Punk,0.0015
+BFI_Openness,high (> 3.8),320,19.8294,0.1866,Overworld (Zelda),Koji Kondo,1986,World/International,0.0014
+BFI_Openness,high (> 3.8),201,19.728,0.3904,"Rose, liz, printemps, verdure",Guillaume de Machaut,1350,Classical/Opera/Soundtrack,0.0014
+BFI_Openness,high (> 3.8),211,19.433,0.316,Wildwood Flower,The Carter Family,1928,Country/Folk,0.0014
+BFI_Openness,high (> 3.8),89,18.5516,0.3289,Magic,Olivia Newton-John,1980,Rock/Alternative/Metal/Punk,0.0013
+BFI_Openness,high (> 3.8),166,18.4404,0.2012,Rag Mop,Ames Brothers,1950,Pop/Mainstream,0.0013
+BFI_Openness,high (> 3.8),16,18.391,0.4195,Spain,Chick Corea,1971,Jazz/Vocal,0.0013
+BFI_Openness,high (> 3.8),113,18.3738,-0.0254,Trap Queen,Fetty Wap,2015,Rap/Hiphop,0.0013
+BFI_Openness,high (> 3.8),246,17.8243,0.0755,Bye bye bye,NSYNC,1998,Pop/Mainstream,0.0013
+BFI_Openness,high (> 3.8),132,17.6832,-0.1217,We Found Love,Rihanna featuring Calvin Harris,2011,Electronic/Dance,0.0013
+BFI_Openness,high (> 3.8),212,17.5623,0.1413,Wabash Cannonball,Roy Acuff,1932,Country/Folk,0.0012
+BFI_Openness,high (> 3.8),107,17.5461,-0.1593,One Dance,Drake featuring Wizkid and Kyla,2016,Rap/Hiphop,0.0012
+BFI_Openness,high (> 3.8),304,17.4917,0.4967,Crow Hop,Black Lodge Singers,2017,World/International,0.0012
+BFI_Openness,high (> 3.8),98,17.3337,0.4656,The Long and Winding Road,The Beatles,1970,Rock/Alternative/Metal/Punk,0.0012
+BFI_Openness,high (> 3.8),197,17.1788,0.1612,Piercing Where They Might,Lurker of Chalice,2005,Rock/Alternative/Metal/Punk,0.0012
+BFI_Openness,high (> 3.8),43,17.0877,0.2012,Darlin Colly,Eileen Ivers,2003,World/International,0.0012
+BFI_Openness,high (> 3.8),207,17.0598,0.4435,Clair De Lune,Claude Debussy,1905,Classical/Opera/Soundtrack,0.0012
+BFI_Openness,high (> 3.8),154,16.9124,0.4048,The Wayward Wind,Gogi Grant,1955,Pop/Mainstream,0.0012
+BFI_Openness,high (> 3.8),266,16.8427,0.3592,Anarchy In The U.K.,Sex Pistols,1977,Rock/Alternative/Metal/Punk,0.0012
+BFI_Openness,high (> 3.8),318,16.2338,0.2272,Super Mario Bros World 1-1,Koji Kondo,1985,World/International,0.0012
+BFI_Openness,high (> 3.8),184,15.8498,0.3894,Black Sabbath,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0011
+BFI_Openness,high (> 3.8),245,15.8356,0.2012,Billie Jean,Michael Jackson,1982,Pop/Mainstream,0.0011
+BFI_Openness,high (> 3.8),15,15.7051,0.5368,Dolphin Dance,Herbie Hancock,1966,Jazz/Vocal,0.0011
+BFI_Openness,high (> 3.8),180,15.4581,0.1158,Dawn of the Blackhearts / Deathcrush,Mayhem,1990,Rock/Alternative/Metal/Punk,0.0011
+BFI_Openness,high (> 3.8),224,14.8725,0.2171,Inner City Life,Goldie,1994,Electronic/Dance,0.0011
+BFI_Openness,high (> 3.8),205,14.8647,0.3633,Nocturne op. 9 no. 2,Frederic Chopin,1830,Classical/Opera/Soundtrack,0.0011
+BFI_Openness,high (> 3.8),311,14.8364,0.2038,Under the Sea,Samuel E Wright,1989,World/International,0.0011
+BFI_Openness,high (> 3.8),135,14.7185,-0.0183,Rolling in the Deep,Adele,2011,Pop/Mainstream,0.001
+BFI_Openness,high (> 3.8),121,14.4587,0.0991,Royals,Lorde,2013,Pop/Mainstream,0.001
+BFI_Openness,high (> 3.8),20,14.2842,0.1855,American Idiot,Green Day,2004,Pop/Mainstream,0.001
+BFI_Openness,high (> 3.8),163,14.2553,0.423,Take Me In Your Arms,Dean Martin,1970,Pop/Mainstream,0.001
+BFI_Openness,high (> 3.8),290,14.2074,0.4421,Hanaichimonme,Happy End,1971,World/International,0.001
+BFI_Openness,high (> 3.8),152,13.8844,0.0929,Heaven's Flames,Jim Lauderdale,1991,Country/Folk,0.001
+BFI_Openness,high (> 3.8),177,13.8475,0.0838,Conquest of Paradise,Vangelis,1992,Electronic/Dance,0.001
+BFI_Openness,high (> 3.8),168,13.0519,0.1745,No Diggity,Blackstreet,1996,Pop/Mainstream,0.0009
+BFI_Openness,high (> 3.8),114,12.9882,-0.0917,Can't Feel My Face,The Weeknd,2015,Rap/Hiphop,0.0009
+BFI_Openness,high (> 3.8),221,12.9682,0.1746,Chase,Giorgio Moroder,1978,Electronic/Dance,0.0009
+BFI_Openness,high (> 3.8),159,12.4656,0.4554,"Boston Concerto, Allegro Staccatissimo",Elliott Carter,1967,Classical/Opera/Soundtrack,0.0009
+BFI_Openness,high (> 3.8),52,12.2738,0.0733,Dirty Angels,Cats Choir,1991,Rock/Alternative/Metal/Punk,0.0009
+BFI_Openness,high (> 3.8),256,12.2206,0.0517,In Da Club,50 Cent,2003,Rap/Hiphop,0.0009
+BFI_Openness,high (> 3.8),130,12.1724,-0.0963,Locked Out of Heaven,Bruno Mars,2012,Pop/Mainstream,0.0009
+BFI_Openness,high (> 3.8),31,11.7446,0.4203,Lovely Day,Bill Withers,1977,R&B/Soul/Funk/Disco,0.0008
+BFI_Openness,high (> 3.8),149,11.6238,-0.046,Live Your Life,T.I. featuring Rihanna,2008,Pop/Mainstream,0.0008
+BFI_Openness,high (> 3.8),158,11.6031,0.3707,I Need You Now,Eddie Fisher,1954,Jazz/Vocal,0.0008
+BFI_Openness,high (> 3.8),231,11.457,0.4357,Take The A Train,Duke Ellington,1939,Jazz/Vocal,0.0008
+BFI_Openness,high (> 3.8),146,11.4101,-0.084,Bleeding Love,Leona Lewis,2008,Pop/Mainstream,0.0008
+BFI_Openness,high (> 3.8),310,11.2642,0.2628,Indiana Jones Theme,John Williams,1981,World/International,0.0008
+BFI_Openness,high (> 3.8),144,10.885,-0.0209,Poker Face,Lady Gaga,2009,Electronic/Dance,0.0008
+BFI_Openness,high (> 3.8),161,10.8195,0.1815,My Sharona,The Knack,1979,Rock/Alternative/Metal/Punk,0.0008
+BFI_Openness,high (> 3.8),139,10.6063,-0.0772,California Gurls,Katy Perry featuring Snoop Dogg,2010,Pop/Mainstream,0.0008
+BFI_Openness,high (> 3.8),243,10.528,0.3277,Ain't No Mountain High Enough,Marvin Gaye,1967,Pop/Mainstream,0.0007
+BFI_Openness,high (> 3.8),14,10.478,0.4545,Milestones,Miles Davis,1958,Jazz/Vocal,0.0007
+BFI_Openness,high (> 3.8),190,10.4153,0.1924,Piece By Piece,Slayer,1986,Rock/Alternative/Metal/Punk,0.0007
+BFI_Openness,high (> 3.8),196,10.3828,0.3465,Symphony No. 5 in C minor,Beethoven,1808,Classical/Opera/Soundtrack,0.0007
+BFI_Openness,high (> 3.8),34,10.2933,0.4111,Symphony No. 3,Philip Glass,1995,Classical/Opera/Soundtrack,0.0007
+BFI_Openness,high (> 3.8),153,9.9392,0.1507,Baby Got Back,Sir Mix A Lot,1992,Rap/Hiphop,0.0007
+BFI_Openness,high (> 3.8),32,9.7937,0.3228,What You Won't Do For Love,Bobby Caldwell,1978,R&B/Soul/Funk/Disco,0.0007
+BFI_Openness,high (> 3.8),199,9.4462,0.1882,I am Black Wizzards,Emperor,1994,Rock/Alternative/Metal/Punk,0.0007
+BFI_Openness,high (> 3.8),39,9.4449,0.3742,Mambo Numero Cinco,Hilton Ruiz,1992,World/International,0.0007
+BFI_Openness,high (> 3.8),176,9.0927,0.2661,Holiday,Bee Gees,1967,Rock/Alternative/Metal/Punk,0.0006
+BFI_Openness,high (> 3.8),125,8.6575,-0.1581,Roar,Katy Perry,2013,Pop/Mainstream,0.0006
+BFI_Openness,high (> 3.8),250,8.366,-0.0729,Bubbly,Colbie Caillat,2007,Pop/Mainstream,0.0006
+BFI_Openness,high (> 3.8),120,8.1623,-0.0843,Stay With Me,Sam Smith,2014,Pop/Mainstream,0.0006
+BFI_Openness,high (> 3.8),222,6.9187,0.2045,I Want You (Forever),Carl Cox,1991,Electronic/Dance,0.0005
+BFI_Openness,high (> 3.8),198,6.5892,0.2112,Death - Pierce Me,Silencer,2001,Rock/Alternative/Metal/Punk,0.0005
+BFI_Openness,high (> 3.8),167,6.5176,0.2012,Oh Darlin,The Okanes,1986,Country/Folk,0.0005
+BFI_Openness,high (> 3.8),99,5.3224,0.2196,Everything is Beautiful,Ray Stevens,1970,Rock/Alternative/Metal/Punk,0.0004
+BFI_Openness,high (> 3.8),248,5.126,0.1546,All The Small Things,Blink 182,2005,Pop/Mainstream,0.0004
+BFI_Openness,high (> 3.8),210,4.8218,0.153,Sonatas and Interludes,John Cage,1946,Classical/Opera/Soundtrack,0.0003
+BFI_Openness,high (> 3.8),262,4.6778,0.4109,Surfin' Safari,The Beach Boys,1962,Rock/Alternative/Metal/Punk,0.0003
+BFI_Openness,high (> 3.8),287,4.3801,0.3868,Pata Pata,Miriam Makeba,1989,World/International,0.0003
+BFI_Openness,high (> 3.8),194,4.2911,0.3009,Hit 'Em Up,2Pac,1996,Rap/Hiphop,0.0003
+BFI_Openness,high (> 3.8),174,3.9519,0.2252,Late for the sky,Jackson Browne,1974,Rock/Alternative/Metal/Punk,0.0003
+BFI_Openness,high (> 3.8),126,1.8918,0.109,Somebody That I Used to Know,Gotye featuring Kimbra,2012,Pop/Mainstream,0.0001
+BFI_Openness,high (> 3.8),133,1.8132,-0.254,Moves like Jagger,Maroon 5 featuring Christina Aguilera,2011,Electronic/Dance,0.0001
+BFI_Openness,high (> 3.8),286,1.6227,0.4346,Ghana-Guinea-Mali,E.T. Mensah,1991,World/International,0.0001
+BFI_Openness,high (> 3.8),179,0.0,0.2036,Dunkelheit,Burzum,1996,Rock/Alternative/Metal/Punk,0.0
+BFI_Openness,high (> 3.8),182,0.0,0.0235,Projekt Misanthropia,Stalaggh,2007,Rock/Alternative/Metal/Punk,0.0
+BFI_Openness,high (> 3.8),191,0.0,0.1282,Hitchhiker,Macabre,2000,Rock/Alternative/Metal/Punk,0.0
+BFI_Openness,high (> 3.8),200,0.0,0.3755,Air on the G String,Bach,1730,Rock/Alternative/Metal/Punk,0.0
+BFI_Openness,high (> 3.8),240,0.0,0.3443,Chameleon,Herbie Hancock,1973,Jazz/Vocal,0.0
+BFI_Openness,high (> 3.8),261,0.0,0.482,Johnny B. Goode,Chuck Berry,1959,Rock/Alternative/Metal/Punk,0.0
+SES,upper / upper middle class,68,1651.8666,-0.5852,Foolish,Ashanti,2002,R&B/Soul/Funk/Disco,0.0804
+SES,upper / upper middle class,103,1352.719,-0.4973,Shape of You,Ed Sheeran,2017,Pop/Mainstream,0.0659
+SES,upper / upper middle class,242,1241.632,0.4644,I Wanna Hold Your Hand,Beatles,1964,Pop/Mainstream,0.0605
+SES,upper / upper middle class,282,1168.1669,-0.3785,Guantanamera,Celia Cruz,1966,World/International,0.0569
+SES,upper / upper middle class,17,1046.4953,0.3623,Heart of Gold,Neil Young,1972,Rock/Alternative/Metal/Punk,0.051
+SES,upper / upper middle class,215,1012.5497,0.3427,Four Walls,Jim Reeves,1956,Country/Folk,0.0493
+SES,upper / upper middle class,110,1011.1827,0.1522,Panda,Desiigner,2016,Rap/Hiphop,0.0492
+SES,upper / upper middle class,319,978.5267,-0.2218,Tetris,Alexey Pajitnov,1984,World/International,0.0477
+SES,upper / upper middle class,69,890.671,-0.4634,Ain't It Funny,Ja Rule & Jennifer Lopez,2002,R&B/Soul/Funk/Disco,0.0434
+SES,upper / upper middle class,230,865.4095,0.1994,Levels,Avicii,2011,Electronic/Dance,0.0421
+SES,upper / upper middle class,129,826.5088,-0.2955,One More Night,Maroon 5,2012,Rock/Alternative/Metal/Punk,0.0402
+SES,upper / upper middle class,229,817.8998,0.2971,Scary Monsters and Nice Sprites,Skrillex,2010,Electronic/Dance,0.0398
+SES,upper / upper middle class,177,770.1172,0.297,Conquest of Paradise,Vangelis,1992,Electronic/Dance,0.0375
+SES,upper / upper middle class,161,769.7366,-0.0087,My Sharona,The Knack,1979,Rock/Alternative/Metal/Punk,0.0375
+SES,upper / upper middle class,98,768.2699,0.3345,The Long and Winding Road,The Beatles,1970,Rock/Alternative/Metal/Punk,0.0374
+SES,upper / upper middle class,73,730.9176,-0.4447,Hypnotize,Notorious B.I.G.,1997,Rap/Hiphop,0.0356
+SES,upper / upper middle class,288,718.009,-0.1954,Shinamania,Shina Peters,1989,World/International,0.035
+SES,upper / upper middle class,149,689.1043,-0.0164,Live Your Life,T.I. featuring Rihanna,2008,Pop/Mainstream,0.0336
+SES,upper / upper middle class,39,686.8302,-0.2856,Mambo Numero Cinco,Hilton Ruiz,1992,World/International,0.0334
+SES,upper / upper middle class,47,601.0919,0.0955,Let the Mystery Be,Iris Dement,1992,Country/Folk,0.0293
+SES,upper / upper middle class,77,548.9685,-0.2528,I Swear,All-4-One,1994,R&B/Soul/Funk/Disco,0.0267
+SES,upper / upper middle class,150,533.1173,-0.1351,Love in This Club,Usher featuring Young Jeezy,2008,Pop/Mainstream,0.026
+SES,upper / upper middle class,238,496.93,0.1265,The Girl From Ipanema,Stan Getz & Astrud Gilberto,1965,Jazz/Vocal,0.0242
+SES,upper / upper middle class,243,358.7255,-0.0877,Ain't No Mountain High Enough,Marvin Gaye,1967,Pop/Mainstream,0.0175
+age,high (> 19),136,621.9272,-0.534,Just the Way You Are,Bruno Mars,2010,Pop/Mainstream,0.0441
+age,high (> 19),83,434.9674,0.4648,With Or Without You,U2,1987,Rock/Alternative/Metal/Punk,0.0308
+age,high (> 19),236,416.7457,0.2218,Take Five,Dave Brubeck Quartet,1959,Jazz/Vocal,0.0295
+age,high (> 19),144,366.2798,-0.2988,Poker Face,Lady Gaga,2009,Electronic/Dance,0.0259
+age,high (> 19),171,296.276,0.3503,Hard Headed Women,Cat Stevens,1970,Rock/Alternative/Metal/Punk,0.021
+age,high (> 19),104,285.5485,-0.4639,That's What I Like,Bruno Mars,2017,R&B/Soul/Funk/Disco,0.0202
+age,high (> 19),298,265.7773,0.2459,Mado,Émilie Vacher,1931,World/International,0.0188
+age,high (> 19),106,263.6022,-0.129,Closer,The Chainsmokers featuring Halsey,2016,Pop/Mainstream,0.0187
+age,high (> 19),303,254.0318,0.5139,Song With Didgeridoo,Australian Aboriginal People,0,World/International,0.018
+age,high (> 19),249,250.3932,0.3833,Dani California,Red Hot Chili Peppers,2006,Pop/Mainstream,0.0177
+age,high (> 19),166,234.2096,0.0928,Rag Mop,Ames Brothers,1950,Pop/Mainstream,0.0166
+age,high (> 19),5,230.1959,0.4492,Blue Moon of Kentucky,Bill Monroe,1947,Country/Folk,0.0163
+age,high (> 19),105,209.8484,-0.0104,Despacito,Luis Fonsi and Daddy Yankee featuring Justin Bieber,2017,Pop/Mainstream,0.0149
+age,high (> 19),126,200.8886,-0.2387,Somebody That I Used to Know,Gotye featuring Kimbra,2012,Pop/Mainstream,0.0142
+age,high (> 19),196,199.9349,0.2714,Symphony No. 5 in C minor,Beethoven,1808,Classical/Opera/Soundtrack,0.0142
+age,high (> 19),273,196.4746,0.3162,You Can't Hurry Love,The Supremes,1966,R&B/Soul/Funk/Disco,0.0139
+age,high (> 19),38,194.0129,0.299,I Wish You Love,Mantovani,1966,Classical/Opera/Soundtrack,0.0137
+age,high (> 19),209,192.0025,0.2913,Rubric,Philip Glass,1981,Classical/Opera/Soundtrack,0.0136
+age,high (> 19),17,185.6865,0.4214,Heart of Gold,Neil Young,1972,Rock/Alternative/Metal/Punk,0.0132
+age,high (> 19),4,183.0125,0.4627,Nessun Dorma,Luciano Pavarotti,1926,Classical/Opera/Soundtrack,0.013
+age,high (> 19),309,180.4641,0.3292,James Bond Theme,Monty Norman,1962,World/International,0.0128
+age,high (> 19),56,180.3062,-0.4245,See You Again,Wiz Khalifa ft. Charlie Puth,2015,Rap/Hiphop,0.0128
+age,high (> 19),259,169.9456,0.0816,Gucci Gang,Lil Pump,2017,Rap/Hiphop,0.012
+age,high (> 19),314,163.946,-0.0398,Seinfeld Theme,Jonathan Wolff,1989,World/International,0.0116
+age,high (> 19),158,150.6327,-0.0604,I Need You Now,Eddie Fisher,1954,Jazz/Vocal,0.0107
+age,high (> 19),94,150.4778,0.277,Lady Marmalade,Labelle,1975,R&B/Soul/Funk/Disco,0.0107
+age,high (> 19),176,147.2219,-0.0451,Holiday,Bee Gees,1967,Rock/Alternative/Metal/Punk,0.0104
+age,high (> 19),306,146.8013,-0.0945,Star Wars Theme,John Williams,1992,World/International,0.0104
+age,high (> 19),258,136.1547,-0.0414,Accordion,Madvillain,2004,Rap/Hiphop,0.0096
+age,high (> 19),288,131.6212,-0.1372,Shinamania,Shina Peters,1989,World/International,0.0093
+age,high (> 19),242,126.8605,0.1757,I Wanna Hold Your Hand,Beatles,1964,Pop/Mainstream,0.009
+age,high (> 19),64,124.5724,-0.0727,This Is Why I'm Hot,Mims,2007,Rap/Hiphop,0.0088
+age,high (> 19),215,123.5659,0.1717,Four Walls,Jim Reeves,1956,Country/Folk,0.0088
+age,high (> 19),194,121.5022,-0.1643,Hit 'Em Up,2Pac,1996,Rap/Hiphop,0.0086
+age,high (> 19),47,118.4453,0.3455,Let the Mystery Be,Iris Dement,1992,Country/Folk,0.0084
+age,high (> 19),148,117.8751,-0.3822,So What,Pink,2008,Electronic/Dance,0.0083
+age,high (> 19),247,117.6825,-0.2342,Forever,Chris Brown,2007,Pop/Mainstream,0.0083
+age,high (> 19),74,115.5477,-0.0751,One Sweet Day,Mariah Carey & Boyz II Men,1996,R&B/Soul/Funk/Disco,0.0082
+age,high (> 19),227,114.4448,0.0848,One More Time,Daft Punk,2000,Electronic/Dance,0.0081
+age,high (> 19),223,114.4428,0.1604,For an Angel,Paul Van Dyk,1994,Electronic/Dance,0.0081
+age,high (> 19),178,114.3403,0.1057,Bite It You Scum,gg allin,1990,Rock/Alternative/Metal/Punk,0.0081
+age,high (> 19),213,112.6633,0.0664,Lovesick Blues,Hank Williams,1948,Country/Folk,0.008
+age,high (> 19),19,109.9523,0.2009,Blue (Da Ba Dee),Eiffel 65,1999,Pop/Mainstream,0.0078
+age,high (> 19),207,108.5923,0.0454,Clair De Lune,Claude Debussy,1905,Classical/Opera/Soundtrack,0.0077
+age,high (> 19),140,104.1649,-0.4926,Break Your Heart,Taio Cruz featuring Ludacris,2010,Pop/Mainstream,0.0074
+age,high (> 19),48,103.4283,0.4147,Interstate Rag,Doc Watson,1972,Country/Folk,0.0073
+age,high (> 19),122,99.5392,-0.3283,Thrift Shop,Macklemore & Ryan Lewis featuring Wanz,2013,Rap/Hiphop,0.0071
+age,high (> 19),255,98.8605,-0.1431,Player's Ball,Outkast,1994,Rap/Hiphop,0.007
+age,high (> 19),260,96.781,-0.4206,Jumpman,Future and Drake,2017,Rap/Hiphop,0.0069
+age,high (> 19),127,95.845,-0.2146,Call Me Maybe,Carly Rae Jepsen,2012,Pop/Mainstream,0.0068
+age,high (> 19),295,94.4975,-0.0534,Abart Al Shat,Kathem Al-Saher,1988,World/International,0.0067
+age,high (> 19),311,93.8834,-0.1734,Under the Sea,Samuel E Wright,1989,World/International,0.0066
+age,high (> 19),62,91.4391,-0.0205,Whatever You Like,T.I.,2008,Rap/Hiphop,0.0065
+age,high (> 19),65,91.0803,-0.0614,SexyBack,Justin Timberlake,2006,Pop/Mainstream,0.0065
+age,high (> 19),123,82.3125,-0.2227,Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,2013,Pop/Mainstream,0.0058
+age,high (> 19),78,81.2669,-0.0995,I Love You,Kenny Rankin,1976,Rock/Alternative/Metal/Punk,0.0058
+age,high (> 19),76,80.6185,0.1198,Have You Ever Really Loved A Woman?,Bryan Adams,1995,Rock/Alternative/Metal/Punk,0.0057
+age,high (> 19),250,76.464,-0.3455,Bubbly,Colbie Caillat,2007,Pop/Mainstream,0.0054
+age,high (> 19),111,76.4094,-0.4038,The Hills,The Weeknd,2015,Rap/Hiphop,0.0054
+age,high (> 19),31,74.562,0.2932,Lovely Day,Bill Withers,1977,R&B/Soul/Funk/Disco,0.0053
+age,high (> 19),165,74.1745,0.1915,"Monday, Monday",The Mamas & The Papas,1966,Rock/Alternative/Metal/Punk,0.0053
+age,high (> 19),308,71.1207,-0.0203,Lord of the Rings Theme,Howard Shore,2000,World/International,0.005
+age,high (> 19),251,68.1677,-0.0004,The Message,Grand Master Flash & The Furious Five,1982,Rap/Hiphop,0.0048
+age,high (> 19),103,67.4772,-0.068,Shape of You,Ed Sheeran,2017,Pop/Mainstream,0.0048
+age,high (> 19),285,67.472,-0.0062,Zombie,Fela Kuti,1976,World/International,0.0048
+age,high (> 19),226,65.073,0.2497,Porcelain,Moby,1999,Electronic/Dance,0.0046
+age,high (> 19),124,61.7137,-0.2872,Can't Hold Us,Macklemore and Ryan Lewis featuring Ray Dalton,2013,Rap/Hiphop,0.0044
+age,high (> 19),301,60.5308,0.2496,Sound of Wind,Inuit Throat And Harp Songs,0,World/International,0.0043
+age,high (> 19),84,60.4813,-0.023,Lean On Me,Club Nouveau,1987,R&B/Soul/Funk/Disco,0.0043
+age,high (> 19),229,59.2793,0.0509,Scary Monsters and Nice Sprites,Skrillex,2010,Electronic/Dance,0.0042
+age,high (> 19),53,57.8782,-0.0831,Heute Nact,Brigitte,2002,Pop/Mainstream,0.0041
+age,high (> 19),97,57.8619,0.1867,"Gypsies, Tramps, And Thieves",Cher,1971,Rock/Alternative/Metal/Punk,0.0041
+age,high (> 19),70,57.4661,0.0972,Family Affair,Mary J. Blige,2001,R&B/Soul/Funk/Disco,0.0041
+age,high (> 19),289,57.2126,0.2691,Arirang,Trot,1964,World/International,0.0041
+age,high (> 19),44,56.1318,0.0544,I Fell In Love,Carlene Carter,1990,Country/Folk,0.004
+age,high (> 19),317,54.1853,0.1884,Star Trek Original Series Theme,Alexander Courage,1969,World/International,0.0038
+age,high (> 19),8,54.18,0.0125,Man! I Feel Like a Woman!,Shania Twain,1997,Country/Folk,0.0038
+age,high (> 19),69,53.489,0.0306,Ain't It Funny,Ja Rule & Jennifer Lopez,2002,R&B/Soul/Funk/Disco,0.0038
+age,high (> 19),27,53.3705,0.1193,Enter Sandman,Metallica,1991,Rock/Alternative/Metal/Punk,0.0038
+age,high (> 19),244,52.863,0.1944,Superstition,Stevie Wonder,1972,Pop/Mainstream,0.0037
+age,high (> 19),192,52.7784,0.1217,Disarm,Smashing Pumpkins,1994,Rock/Alternative/Metal/Punk,0.0037
+age,high (> 19),67,51.3945,0.0495,Oh! My Pa-Pa,Eddie Fisher,1954,Pop/Mainstream,0.0036
+age,high (> 19),162,51.3534,0.2302,Wheel of Fortune,Kay Starr,1952,Pop/Mainstream,0.0036
+age,high (> 19),265,51.2768,0.0625,We Are The Champions,Queen,1977,Rock/Alternative/Metal/Punk,0.0036
+age,high (> 19),61,50.6545,0.032,"""3""",Britney Spears,2009,Pop/Mainstream,0.0036
+age,high (> 19),266,50.0857,0.2421,Anarchy In The U.K.,Sex Pistols,1977,Rock/Alternative/Metal/Punk,0.0035
+age,high (> 19),278,49.8987,0.0318,Love Come Down,"Evelyn ""Champagne"" King",1982,R&B/Soul/Funk/Disco,0.0035
+age,high (> 19),281,48.8564,-0.0942,El Son de la Negra,Blas Gilando Dimas,1940,World/International,0.0035
+age,high (> 19),137,48.5656,-0.3643,Firework,Katy Perry,2010,Pop/Mainstream,0.0034
+age,high (> 19),119,48.4215,-0.1481,Dark Horse,Katy Perry featuring Juicy J,2014,Pop/Mainstream,0.0034
+age,high (> 19),25,47.8762,0.1661,Lucy In The Sky With Diamonds,The Beatles,1967,Rock/Alternative/Metal/Punk,0.0034
+age,high (> 19),203,47.5209,0.2578,Brandenburg Concerto No. 3,JS Bach,1700,Classical/Opera/Soundtrack,0.0034
+age,high (> 19),263,46.2617,0.3065,Iron Man,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0033
+age,high (> 19),193,45.9203,0.0755,Hurt,Nine Inch Nails,1995,Rock/Alternative/Metal/Punk,0.0033
+age,high (> 19),206,45.5014,0.4112,Magic Flute,Mozart,1851,Classical/Opera/Soundtrack,0.0032
+age,high (> 19),90,45.1582,0.0638,Sad Eyes,Robert John,1979,Rock/Alternative/Metal/Punk,0.0032
+age,high (> 19),1,45.1122,0.1987,Je Vous Pri Que J'Aye un Baysier,Richard Loqueville,1418,Classical/Opera/Soundtrack,0.0032
+age,high (> 19),210,44.2069,0.2126,Sonatas and Interludes,John Cage,1946,Classical/Opera/Soundtrack,0.0031
+age,high (> 19),189,43.9917,0.0594,Seek And Destroy,Metallica,1983,Rock/Alternative/Metal/Punk,0.0031
+age,high (> 19),214,43.9745,0.3407,I'm a Man of Constant Sorrow,The Stanley Brothers,1950,Country/Folk,0.0031
+age,high (> 19),282,43.3779,0.0331,Guantanamera,Celia Cruz,1966,World/International,0.0031
+age,high (> 19),20,41.7039,-0.0067,American Idiot,Green Day,2004,Pop/Mainstream,0.003
+age,high (> 19),177,40.7457,0.1193,Conquest of Paradise,Vangelis,1992,Electronic/Dance,0.0029
+age,high (> 19),167,40.4655,0.3219,Oh Darlin,The Okanes,1986,Country/Folk,0.0029
+age,high (> 19),287,40.4543,-0.0022,Pata Pata,Miriam Makeba,1989,World/International,0.0029
+age,high (> 19),267,40.2048,0.0601,Heart Of Glass,Blondie,1978,Rock/Alternative/Metal/Punk,0.0028
+age,high (> 19),274,39.6932,0.2737,Let's Stay Together,Al Green,1972,R&B/Soul/Funk/Disco,0.0028
+age,high (> 19),208,39.3345,0.1719,The Rite Of Spring,Igor Stravinsky,1913,Classical/Opera/Soundtrack,0.0028
+age,high (> 19),248,38.2759,0.1018,All The Small Things,Blink 182,2005,Pop/Mainstream,0.0027
+age,high (> 19),37,38.074,0.2363,The Way You Look Tonight,Oscar Peterson,1959,Jazz/Vocal,0.0027
+age,high (> 19),319,37.9486,0.0743,Tetris,Alexey Pajitnov,1984,World/International,0.0027
+age,high (> 19),21,37.8274,-0.3014,Shake it Off,Taylor Swift,2014,Pop/Mainstream,0.0027
+age,high (> 19),164,37.457,-0.0766,Lately,Divine,1998,R&B/Soul/Funk/Disco,0.0027
+age,high (> 19),99,36.59,0.0004,Everything is Beautiful,Ray Stevens,1970,Rock/Alternative/Metal/Punk,0.0026
+age,high (> 19),277,36.5848,-0.0546,Rock With You,Michael Jackson,1979,R&B/Soul/Funk/Disco,0.0026
+age,high (> 19),135,36.5155,-0.2272,Rolling in the Deep,Adele,2011,Pop/Mainstream,0.0026
+age,high (> 19),261,36.292,0.0925,Johnny B. Goode,Chuck Berry,1959,Rock/Alternative/Metal/Punk,0.0026
+age,high (> 19),46,35.542,0.2233,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.0025
+age,high (> 19),15,35.479,0.0901,Dolphin Dance,Herbie Hancock,1966,Jazz/Vocal,0.0025
+age,high (> 19),112,34.4267,-0.1555,Sugar,Maroon 5,2015,Rock/Alternative/Metal/Punk,0.0024
+age,high (> 19),110,33.7253,-0.341,Panda,Desiigner,2016,Rap/Hiphop,0.0024
+age,high (> 19),51,33.0428,0.1287,When Our Love Passed Out on the Couch,X,1981,Rock/Alternative/Metal/Punk,0.0023
+age,high (> 19),130,32.3805,-0.3495,Locked Out of Heaven,Bruno Mars,2012,Pop/Mainstream,0.0023
+age,high (> 19),296,30.7397,0.027,Haperach Begani (The Flower in My Garden),Zohar Argov,1982,World/International,0.0022
+age,high (> 19),188,29.3858,0.0908,Ride of the Valkyries,Richard Wagner,1856,Classical/Opera/Soundtrack,0.0021
+age,high (> 19),59,29.1776,-0.1707,Black and Yellow,Wiz Khalifa,2011,Rap/Hiphop,0.0021
+age,high (> 19),237,28.3417,0.3722,Lonely Woman,Ornette Coleman,1959,Jazz/Vocal,0.002
+age,high (> 19),221,28.011,0.1571,Chase,Giorgio Moroder,1978,Electronic/Dance,0.002
+age,high (> 19),155,27.5636,-0.0212,Lose Yourself,Eminem,2002,Rap/Hiphop,0.002
+age,high (> 19),222,27.021,0.0563,I Want You (Forever),Carl Cox,1991,Electronic/Dance,0.0019
+age,high (> 19),45,26.7075,0.1,That Lucky Old Sun,Frankie Laine,1958,Country/Folk,0.0019
+age,high (> 19),152,26.5087,0.1775,Heaven's Flames,Jim Lauderdale,1991,Country/Folk,0.0019
+age,high (> 19),219,25.7348,0.126,A Little Bit Stronger,Sara Evans,2010,Country/Folk,0.0018
+age,high (> 19),102,25.6728,-0.3507,Perfect,Ed Sheeran,2017,Rock/Alternative/Metal/Punk,0.0018
+age,high (> 19),77,25.6424,-0.1729,I Swear,All-4-One,1994,R&B/Soul/Funk/Disco,0.0018
+age,high (> 19),307,25.469,-0.0573,Harry Potter Theme (Hedwig's Theme),John Williams,2001,World/International,0.0018
+age,high (> 19),101,24.4784,-0.3613,Rockstar,Post Malone featuring 21 Savage,2017,Rap/Hiphop,0.0017
+age,high (> 19),163,24.4761,0.1064,Take Me In Your Arms,Dean Martin,1970,Pop/Mainstream,0.0017
+age,high (> 19),139,23.8536,-0.3657,California Gurls,Katy Perry featuring Snoop Dogg,2010,Pop/Mainstream,0.0017
+age,high (> 19),117,23.5592,-0.1618,Take Me to Church,Hozier,2014,Rock/Alternative/Metal/Punk,0.0017
+age,high (> 19),218,22.4496,0.3006,On the Other Hand,Randy Travis,1986,Country/Folk,0.0016
+age,high (> 19),79,22.4302,-0.0527,Gonna Make You Sweat (Everybody Dance Now),C&C Music Factory,1991,Pop/Mainstream,0.0016
+age,high (> 19),154,21.8943,0.1605,The Wayward Wind,Gogi Grant,1955,Pop/Mainstream,0.0016
+age,high (> 19),238,20.9308,0.2622,The Girl From Ipanema,Stan Getz & Astrud Gilberto,1965,Jazz/Vocal,0.0015
+age,high (> 19),190,20.6218,0.0935,Piece By Piece,Slayer,1986,Rock/Alternative/Metal/Punk,0.0015
+age,high (> 19),300,18.2812,0.2018,Kalinka-Malinka,Ivan Larionov,1860,World/International,0.0013
+age,high (> 19),88,17.0382,0.1391,The Tide Is High,Blondie,1981,Rock/Alternative/Metal/Punk,0.0012
+age,high (> 19),28,16.9372,0.0835,Smells Like Teen Spirit,Nirvana,1991,Rock/Alternative/Metal/Punk,0.0012
+age,high (> 19),3,16.6188,0.258,Requiem in D Minor,Wolfgang Amadeus Mozart,1791,Classical/Opera/Soundtrack,0.0012
+age,high (> 19),41,15.9144,0.092,My Favorite Polka,Frankie Yankovic,1957,World/International,0.0011
+age,high (> 19),29,15.5541,0.1443,Hoochie Coochie Man,Muddy Waters,1954,R&B/Soul/Funk/Disco,0.0011
+age,high (> 19),204,14.506,0.149,Fur Elise,Ludwig Van Beethoven,1810,Classical/Opera/Soundtrack,0.001
+age,high (> 19),294,14.4504,0.042,Aap Jaisa Koi,Nazia Hassan,1980,World/International,0.001
+age,high (> 19),109,13.5956,-0.1449,Cheap Thrills,Sia featuring Sean Paul,2016,Pop/Mainstream,0.001
+age,high (> 19),241,13.3298,0.0293,Jailhouse Rock,Elvis Presley,1957,Pop/Mainstream,0.0009
+age,high (> 19),115,13.2887,-0.2471,Hello,Adele,2015,Pop/Mainstream,0.0009
+age,high (> 19),72,13.2097,0.0493,Truly Madly Deeply,Savage Garden,1998,Pop/Mainstream,0.0009
+age,high (> 19),304,12.7134,0.1684,Crow Hop,Black Lodge Singers,2017,World/International,0.0009
+age,high (> 19),212,12.6376,0.1816,Wabash Cannonball,Roy Acuff,1932,Country/Folk,0.0009
+age,high (> 19),134,12.6178,-0.2535,E.T.,Katy Perry featuring Kanye West,2011,Pop/Mainstream,0.0009
+age,high (> 19),202,12.3207,0.1276,Missa Hercules Dux Ferrariae - Sanctus,Josquin des Prez,1500,Classical/Opera/Soundtrack,0.0009
+age,high (> 19),81,11.8833,-0.1311,How Am I Supposed To Live Without You?,Michael Bolton,1990,Rock/Alternative/Metal/Punk,0.0008
+age,high (> 19),211,11.4745,0.2289,Wildwood Flower,The Carter Family,1928,Country/Folk,0.0008
+age,high (> 19),310,11.3632,0.034,Indiana Jones Theme,John Williams,1981,World/International,0.0008
+age,high (> 19),43,11.1126,0.1939,Darlin Colly,Eileen Ivers,2003,World/International,0.0008
+age,high (> 19),33,11.1037,0.0992,Afro Blue,Robert Glasper feat Erykah Badu,2012,R&B/Soul/Funk/Disco,0.0008
+age,high (> 19),146,10.9525,-0.236,Bleeding Love,Leona Lewis,2008,Pop/Mainstream,0.0008
+age,high (> 19),184,10.8897,0.1637,Black Sabbath,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0008
+age,high (> 19),150,10.7859,-0.2523,Love in This Club,Usher featuring Young Jeezy,2008,Pop/Mainstream,0.0008
+age,high (> 19),23,10.5397,-0.1259,Gin and Juice,Snoop Dogg,1993,Rap/Hiphop,0.0007
+age,high (> 19),68,8.7718,-0.1504,Foolish,Ashanti,2002,R&B/Soul/Funk/Disco,0.0006
+age,high (> 19),35,8.6442,0.1912,Symphony No. 1 in B Flat Major,William Boyce,1760,Classical/Opera/Soundtrack,0.0006
+age,high (> 19),133,7.9812,-0.4034,Moves like Jagger,Maroon 5 featuring Christina Aguilera,2011,Electronic/Dance,0.0006
+age,high (> 19),275,7.8798,0.2116,Give Up The Funk,Parliament,1975,R&B/Soul/Funk/Disco,0.0006
+age,high (> 19),73,7.6568,-0.0842,Hypnotize,Notorious B.I.G.,1997,Rap/Hiphop,0.0005
+age,high (> 19),279,6.23,0.1143,On And On,Erykah Badu,1997,R&B/Soul/Funk/Disco,0.0004
+age,high (> 19),283,5.1969,0.0989,Pressure Drop,Toots & The Maytals,1969,World/International,0.0004
+age,high (> 19),10,4.6292,0.087,Music Sounds Better With You,Stardust,1998,Electronic/Dance,0.0003
+age,high (> 19),60,3.9831,-0.1245,Hold It Against Me,Britney Spears,2011,Pop/Mainstream,0.0003
+age,high (> 19),96,3.8795,0.1223,Ben,Michael Jackson,1972,R&B/Soul/Funk/Disco,0.0003
+age,high (> 19),224,3.7185,0.1099,Inner City Life,Goldie,1994,Electronic/Dance,0.0003
+age,high (> 19),32,0.0,0.0298,What You Won't Do For Love,Bobby Caldwell,1978,R&B/Soul/Funk/Disco,0.0
+age,high (> 19),75,0.0,-0.0594,Exhale (Shoop Shoop),Whitney Houston,1995,R&B/Soul/Funk/Disco,0.0
+age,high (> 19),128,0.0,-0.1794,We Are Young,Fun featuring Janelle Monáe,2012,Rock/Alternative/Metal/Punk,0.0
+age,high (> 19),131,0.0,-0.3969,Party Rock Anthem,LMFAO featuring Lauren Bennett and GoonRock,2011,Electronic/Dance,0.0
+age,high (> 19),161,0.0,0.1347,My Sharona,The Knack,1979,Rock/Alternative/Metal/Punk,0.0
+age,high (> 19),180,0.0,0.1047,Dawn of the Blackhearts / Deathcrush,Mayhem,1990,Rock/Alternative/Metal/Punk,0.0
+age,high (> 19),181,0.0,0.1731,tsutomu miyazaki,Gnaw Their Tongues,2010,Rock/Alternative/Metal/Punk,0.0
+age,high (> 19),183,0.0,0.2702,Helter Skelter,The Beatles,1968,Rock/Alternative/Metal/Punk,0.0
+age,high (> 19),246,0.0,-0.2414,Bye bye bye,NSYNC,1998,Pop/Mainstream,0.0
+age,high (> 19),269,0.0,0.1207,Round and Round,Ratt,1987,Rock/Alternative/Metal/Punk,0.0
+age,high (> 19),316,0.0,0.0636,Law and Order Theme,Mike Post,1994,World/International,0.0
+area,Urban,46,1310.9658,0.5322,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.0548
+area,Urban,248,1102.6106,-0.6267,All The Small Things,Blink 182,2005,Pop/Mainstream,0.0461
+area,Urban,112,1064.5201,0.5131,Sugar,Maroon 5,2015,Rock/Alternative/Metal/Punk,0.0445
+area,Urban,145,1047.4003,-0.4359,Whatcha Say,Jason Derulo,2009,Pop/Mainstream,0.0438
+area,Urban,220,1038.2465,0.3838,Come Pick Me Up,Ryan Adams,2000,Country/Folk,0.0434
+area,Urban,308,993.9527,-0.329,Lord of the Rings Theme,Howard Shore,2000,World/International,0.0416
+area,Urban,95,948.376,0.2944,Top Of The World,Carpenters,1973,Rock/Alternative/Metal/Punk,0.0397
+area,Urban,135,872.0998,0.0977,Rolling in the Deep,Adele,2011,Pop/Mainstream,0.0365
+area,Urban,261,838.2279,-0.5024,Johnny B. Goode,Chuck Berry,1959,Rock/Alternative/Metal/Punk,0.035
+area,Urban,246,830.816,-0.4964,Bye bye bye,NSYNC,1998,Pop/Mainstream,0.0347
+area,Urban,57,799.67,0.5273,All About That Bass,Meghan Trainor,2014,Pop/Mainstream,0.0334
+area,Urban,306,799.5675,-0.3405,Star Wars Theme,John Williams,1992,World/International,0.0334
+area,Urban,251,792.6551,-0.4158,The Message,Grand Master Flash & The Furious Five,1982,Rap/Hiphop,0.0331
+area,Urban,91,742.3224,0.5815,Happy,Pharrell Williams,2013,Pop/Mainstream,0.031
+area,Urban,268,735.7968,-0.4691,This Charming Man,The Smiths,1984,Rock/Alternative/Metal/Punk,0.0308
+area,Urban,214,721.444,-0.0969,I'm a Man of Constant Sorrow,The Stanley Brothers,1950,Country/Folk,0.0302
+area,Urban,143,698.4613,0.0602,Boom Boom Pow,The Black Eyed Peas,2009,Pop/Mainstream,0.0292
+area,Urban,277,698.2571,-0.3838,Rock With You,Michael Jackson,1979,R&B/Soul/Funk/Disco,0.0292
+area,Urban,42,681.8258,0.1902,Backbone,Boney James,1994,R&B/Soul/Funk/Disco,0.0285
+area,Urban,296,677.0513,-0.3565,Haperach Begani (The Flower in My Garden),Zohar Argov,1982,World/International,0.0283
+area,Urban,139,655.3061,-0.2939,California Gurls,Katy Perry featuring Snoop Dogg,2010,Pop/Mainstream,0.0274
+area,Urban,39,653.6556,0.0882,Mambo Numero Cinco,Hilton Ruiz,1992,World/International,0.0273
+area,Urban,171,647.23,0.4549,Hard Headed Women,Cat Stevens,1970,Rock/Alternative/Metal/Punk,0.0271
+area,Urban,68,562.8279,0.0473,Foolish,Ashanti,2002,R&B/Soul/Funk/Disco,0.0235
+area,Urban,20,560.6831,-0.6332,American Idiot,Green Day,2004,Pop/Mainstream,0.0234
+area,Urban,121,537.582,-0.171,Royals,Lorde,2013,Pop/Mainstream,0.0225
+area,Urban,185,535.5594,-0.6353,Hell's Bells,AC/DC,1980,Rock/Alternative/Metal/Punk,0.0224
+area,Urban,275,532.8147,-0.445,Give Up The Funk,Parliament,1975,R&B/Soul/Funk/Disco,0.0223
+area,Urban,148,527.4875,-0.3841,So What,Pink,2008,Electronic/Dance,0.0221
+area,Urban,150,498.9679,-0.1466,Love in This Club,Usher featuring Young Jeezy,2008,Pop/Mainstream,0.0209
+area,Urban,168,461.0804,-0.2901,No Diggity,Blackstreet,1996,Pop/Mainstream,0.0193
+area,Urban,126,350.1073,-0.0953,Somebody That I Used to Know,Gotye featuring Kimbra,2012,Pop/Mainstream,0.0146
+gender,Female,61,602.023,0.798,"""3""",Britney Spears,2009,Pop/Mainstream,0.094
+gender,Female,319,503.0505,-1.1053,Tetris,Alexey Pajitnov,1984,World/International,0.0786
+gender,Female,320,492.5302,-1.097,Overworld (Zelda),Koji Kondo,1986,World/International,0.0769
+gender,Female,71,445.8044,0.8147,Bootylicious,Destiny's Child,2001,R&B/Soul/Funk/Disco,0.0696
+gender,Female,309,395.394,-0.7659,James Bond Theme,Monty Norman,1962,World/International,0.0618
+gender,Female,146,372.2843,0.6968,Bleeding Love,Leona Lewis,2008,Pop/Mainstream,0.0581
+gender,Female,263,361.4752,-0.9025,Iron Man,Black Sabbath,1970,Rock/Alternative/Metal/Punk,0.0565
+gender,Female,311,359.9612,0.5815,Under the Sea,Samuel E Wright,1989,World/International,0.0562
+gender,Female,155,325.918,-0.2371,Lose Yourself,Eminem,2002,Rap/Hiphop,0.0509
+gender,Female,5,315.7981,-0.5561,Blue Moon of Kentucky,Bill Monroe,1947,Country/Folk,0.0493
+gender,Female,253,229.5033,-0.4279,The World Is Yours,Nas,1994,Rap/Hiphop,0.0358
+gender,Female,223,219.9608,-0.5563,For an Angel,Paul Van Dyk,1994,Electronic/Dance,0.0344
+gender,Female,170,216.6524,0.1085,I Had The Craziest Dream,Harry James,1942,Pop/Mainstream,0.0338
+gender,Female,314,197.721,-0.5996,Seinfeld Theme,Jonathan Wolff,1989,World/International,0.0309
+gender,Female,185,190.8088,-0.8386,Hell's Bells,AC/DC,1980,Rock/Alternative/Metal/Punk,0.0298
+gender,Female,12,187.4134,-0.5871,Sandstorm,Darude,1999,Electronic/Dance,0.0293
+gender,Female,63,176.3924,0.5361,Give It To Me,Timbaland,2007,Pop/Mainstream,0.0276
+gender,Female,86,157.6549,0.4263,Footloose,Kenny Loggins,1984,Rock/Alternative/Metal/Punk,0.0246
+gender,Female,268,155.2908,-0.1733,This Charming Man,The Smiths,1984,Rock/Alternative/Metal/Punk,0.0243
+gender,Female,226,124.1927,-0.5284,Porcelain,Moby,1999,Electronic/Dance,0.0194
+gender,Female,85,107.0426,0.4863,Heaven,Bryan Adams,1985,Rock/Alternative/Metal/Punk,0.0167
+gender,Female,117,101.818,0.2575,Take Me to Church,Hozier,2014,Rock/Alternative/Metal/Punk,0.0159
+gender,Female,305,91.0637,-0.4178,Maori Haka,New Zealand Maori Warrior Chant,0,World/International,0.0142
+gender,Female,227,72.6884,-0.2143,One More Time,Daft Punk,2000,Electronic/Dance,0.0114
+lyrics_vs_instruments,Lyrics,120,101.6602,1.0435,Stay With Me,Sam Smith,2014,Pop/Mainstream,0.3172
+lyrics_vs_instruments,Lyrics,303,81.991,-1.0815,Song With Didgeridoo,Australian Aboriginal People,0,World/International,0.2558
+lyrics_vs_instruments,Lyrics,2,62.159,-0.9065,Four Seasons: Concerto No. 2 in G Minor,Antonio Vivaldi,1721,Classical/Opera/Soundtrack,0.194
+lyrics_vs_instruments,Lyrics,208,38.0641,-1.0796,The Rite Of Spring,Igor Stravinsky,1913,Classical/Opera/Soundtrack,0.1188
+lyrics_vs_instruments,Lyrics,58,36.6044,0.9275,Diamonds,Rihanna,2012,Pop/Mainstream,0.1142
+music_importance,big role / music is my life,257,91.9793,0.7262,Good Life,Kanye West ft. T-Pain,2007,Rap/Hiphop,0.0631
+music_importance,big role / music is my life,161,85.0833,0.2818,My Sharona,The Knack,1979,Rock/Alternative/Metal/Punk,0.0584
+music_importance,big role / music is my life,157,74.3756,-0.1863,Money For Nothing,Dire Straigts,1988,Rock/Alternative/Metal/Punk,0.0511
+music_importance,big role / music is my life,279,62.0868,0.4405,On And On,Erykah Badu,1997,R&B/Soul/Funk/Disco,0.0426
+music_importance,big role / music is my life,159,58.3572,-0.1716,"Boston Concerto, Allegro Staccatissimo",Elliott Carter,1967,Classical/Opera/Soundtrack,0.0401
+music_importance,big role / music is my life,105,54.5601,-0.1008,Despacito,Luis Fonsi and Daddy Yankee featuring Justin Bieber,2017,Pop/Mainstream,0.0375
+music_importance,big role / music is my life,171,45.5994,-0.3263,Hard Headed Women,Cat Stevens,1970,Rock/Alternative/Metal/Punk,0.0313
+music_importance,big role / music is my life,28,43.7768,0.1218,Smells Like Teen Spirit,Nirvana,1991,Rock/Alternative/Metal/Punk,0.0301
+music_importance,big role / music is my life,15,43.0984,0.4831,Dolphin Dance,Herbie Hancock,1966,Jazz/Vocal,0.0296
+music_importance,big role / music is my life,63,43.038,0.5376,Give It To Me,Timbaland,2007,Pop/Mainstream,0.0295
+music_importance,big role / music is my life,317,37.7748,0.1958,Star Trek Original Series Theme,Alexander Courage,1969,World/International,0.0259
+music_importance,big role / music is my life,31,35.0842,0.3714,Lovely Day,Bill Withers,1977,R&B/Soul/Funk/Disco,0.0241
+music_importance,big role / music is my life,150,34.6298,0.1527,Love in This Club,Usher featuring Young Jeezy,2008,Pop/Mainstream,0.0238
+music_importance,big role / music is my life,88,34.2851,0.346,The Tide Is High,Blondie,1981,Rock/Alternative/Metal/Punk,0.0235
+music_importance,big role / music is my life,207,32.8504,0.2588,Clair De Lune,Claude Debussy,1905,Classical/Opera/Soundtrack,0.0226
+music_importance,big role / music is my life,110,32.7416,0.5398,Panda,Desiigner,2016,Rap/Hiphop,0.0225
+music_importance,big role / music is my life,107,32.0699,0.5367,One Dance,Drake featuring Wizkid and Kyla,2016,Rap/Hiphop,0.022
+music_importance,big role / music is my life,303,29.0646,-0.2209,Song With Didgeridoo,Australian Aboriginal People,0,World/International,0.02
+music_importance,big role / music is my life,160,28.3085,0.4998,Get Busy,Sean Paul,2002,Pop/Mainstream,0.0194
+music_importance,big role / music is my life,18,27.2604,0.1774,"Sugar, Sugar",The Archies,1969,Pop/Mainstream,0.0187
+music_importance,big role / music is my life,169,24.2001,0.2862,Sleepwalk,Santo And Johnny,1959,Pop/Mainstream,0.0166
+music_importance,big role / music is my life,254,23.9422,0.5379,Aint Nuthin' But a G Thang,Dr. Dre & Snoop Dog,1992,Rap/Hiphop,0.0164
+music_importance,big role / music is my life,232,23.8385,0.4726,Confirmation,Charlie Parker Quartet,1946,Jazz/Vocal,0.0164
+music_importance,big role / music is my life,58,23.2641,0.4033,Diamonds,Rihanna,2012,Pop/Mainstream,0.016
+music_importance,big role / music is my life,61,23.12,0.3726,"""3""",Britney Spears,2009,Pop/Mainstream,0.0159
+music_importance,big role / music is my life,196,23.1164,-0.1025,Symphony No. 5 in C minor,Beethoven,1808,Classical/Opera/Soundtrack,0.0159
+music_importance,big role / music is my life,148,23.0201,0.2088,So What,Pink,2008,Electronic/Dance,0.0158
+music_importance,big role / music is my life,4,22.6777,0.1035,Nessun Dorma,Luciano Pavarotti,1926,Classical/Opera/Soundtrack,0.0156
+music_importance,big role / music is my life,238,22.474,0.496,The Girl From Ipanema,Stan Getz & Astrud Gilberto,1965,Jazz/Vocal,0.0154
+music_importance,big role / music is my life,309,22.1344,0.1104,James Bond Theme,Monty Norman,1962,World/International,0.0152
+music_importance,big role / music is my life,250,21.9563,0.1047,Bubbly,Colbie Caillat,2007,Pop/Mainstream,0.0151
+music_importance,big role / music is my life,153,21.8469,0.1061,Baby Got Back,Sir Mix A Lot,1992,Rap/Hiphop,0.015
+music_importance,big role / music is my life,260,21.5277,0.6277,Jumpman,Future and Drake,2017,Rap/Hiphop,0.0148
+music_importance,big role / music is my life,141,19.9887,0.3923,Down,Jay Sean featuring Lil Wayne,2009,Pop/Mainstream,0.0137
+music_importance,big role / music is my life,273,19.6925,0.3569,You Can't Hurry Love,The Supremes,1966,R&B/Soul/Funk/Disco,0.0135
+music_importance,big role / music is my life,32,19.6046,0.4916,What You Won't Do For Love,Bobby Caldwell,1978,R&B/Soul/Funk/Disco,0.0135
+music_importance,big role / music is my life,173,19.1529,0.0591,The Goldberg Variations,J.S.Bach,1741,Classical/Opera/Soundtrack,0.0131
+music_importance,big role / music is my life,146,17.6787,0.3062,Bleeding Love,Leona Lewis,2008,Pop/Mainstream,0.0121
+music_importance,big role / music is my life,234,16.2557,0.4162,Come Fly With Me,Frank Sinatra,1957,Jazz/Vocal,0.0112
+music_importance,big role / music is my life,290,15.8186,0.2306,Hanaichimonme,Happy End,1971,World/International,0.0109
+music_importance,big role / music is my life,29,15.7394,0.0572,Hoochie Coochie Man,Muddy Waters,1954,R&B/Soul/Funk/Disco,0.0108
+music_importance,big role / music is my life,212,15.2464,-0.2847,Wabash Cannonball,Roy Acuff,1932,Country/Folk,0.0105
+music_importance,big role / music is my life,65,14.9018,0.4698,SexyBack,Justin Timberlake,2006,Pop/Mainstream,0.0102
+music_importance,big role / music is my life,92,14.292,0.3651,Shadow Dancing,Andy Gibb,1978,R&B/Soul/Funk/Disco,0.0098
+music_importance,big role / music is my life,8,13.8245,0.1191,Man! I Feel Like a Woman!,Shania Twain,1997,Country/Folk,0.0095
+music_importance,big role / music is my life,200,12.4264,0.1914,Air on the G String,Bach,1730,Rock/Alternative/Metal/Punk,0.0085
+music_importance,big role / music is my life,244,9.9825,0.3001,Superstition,Stevie Wonder,1972,Pop/Mainstream,0.0069
+music_importance,big role / music is my life,55,8.957,0.3701,Intro,Ludacris,2004,Rap/Hiphop,0.0061
+political_view,left (liberal / progressive / socialist),71,328.319,0.765,Bootylicious,Destiny's Child,2001,R&B/Soul/Funk/Disco,0.0667
+political_view,left (liberal / progressive / socialist),46,279.2122,-0.8319,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.0567
+political_view,left (liberal / progressive / socialist),86,275.1948,0.6854,Footloose,Kenny Loggins,1984,Rock/Alternative/Metal/Punk,0.0559
+political_view,left (liberal / progressive / socialist),103,253.1992,-0.6946,Shape of You,Ed Sheeran,2017,Pop/Mainstream,0.0514
+political_view,left (liberal / progressive / socialist),73,224.1453,0.743,Hypnotize,Notorious B.I.G.,1997,Rap/Hiphop,0.0455
+political_view,left (liberal / progressive / socialist),259,187.0227,-0.3124,Gucci Gang,Lil Pump,2017,Rap/Hiphop,0.038
+political_view,left (liberal / progressive / socialist),20,161.7695,0.7305,American Idiot,Green Day,2004,Pop/Mainstream,0.0329
+political_view,left (liberal / progressive / socialist),307,158.0877,0.2909,Harry Potter Theme (Hedwig's Theme),John Williams,2001,World/International,0.0321
+political_view,left (liberal / progressive / socialist),123,158.0611,-0.2789,Blurred Lines,Robin Thicke featuring T.I. and Pharrell Williams,2013,Pop/Mainstream,0.0321
+political_view,left (liberal / progressive / socialist),203,123.8617,-0.2807,Brandenburg Concerto No. 3,JS Bach,1700,Classical/Opera/Soundtrack,0.0252
+political_view,left (liberal / progressive / socialist),9,123.4701,-0.6387,Independence Day,Martina McBride,1994,Country/Folk,0.0251
+political_view,left (liberal / progressive / socialist),6,118.9899,-0.0346,Blowin' in the Wind,Bob Dylan,1963,Country/Folk,0.0242
+political_view,left (liberal / progressive / socialist),171,118.6117,-0.6558,Hard Headed Women,Cat Stevens,1970,Rock/Alternative/Metal/Punk,0.0241
+political_view,left (liberal / progressive / socialist),267,116.1487,0.552,Heart Of Glass,Blondie,1978,Rock/Alternative/Metal/Punk,0.0236
+political_view,left (liberal / progressive / socialist),289,115.2977,-0.531,Arirang,Trot,1964,World/International,0.0234
+political_view,left (liberal / progressive / socialist),28,101.6956,0.75,Smells Like Teen Spirit,Nirvana,1991,Rock/Alternative/Metal/Punk,0.0207
+political_view,left (liberal / progressive / socialist),134,99.043,0.2228,E.T.,Katy Perry featuring Kanye West,2011,Pop/Mainstream,0.0201
+political_view,left (liberal / progressive / socialist),81,91.4923,-0.2079,How Am I Supposed To Live Without You?,Michael Bolton,1990,Rock/Alternative/Metal/Punk,0.0186
+political_view,left (liberal / progressive / socialist),275,86.8928,0.5846,Give Up The Funk,Parliament,1975,R&B/Soul/Funk/Disco,0.0177
+political_view,left (liberal / progressive / socialist),225,84.0474,0.1341,Better Off Alone,Alice Deejay,1998,Electronic/Dance,0.0171
+political_view,left (liberal / progressive / socialist),22,82.9403,0.5932,It Was A Good Day,Ice Cube,1993,Rap/Hiphop,0.0168
+political_view,left (liberal / progressive / socialist),287,81.4431,0.4283,Pata Pata,Miriam Makeba,1989,World/International,0.0165
+political_view,left (liberal / progressive / socialist),119,79.4284,0.1313,Dark Horse,Katy Perry featuring Juicy J,2014,Pop/Mainstream,0.0161
+political_view,left (liberal / progressive / socialist),312,78.3287,0.3165,20th Century Fox (Fanfare),Alfred Newman,1933,World/International,0.0159
+political_view,left (liberal / progressive / socialist),158,77.6553,0.1103,I Need You Now,Eddie Fisher,1954,Jazz/Vocal,0.0158
+political_view,left (liberal / progressive / socialist),297,76.7387,-0.281,Whiskey In The Jar,The Dubliners,1968,World/International,0.0156
+political_view,left (liberal / progressive / socialist),85,75.8554,0.0004,Heaven,Bryan Adams,1985,Rock/Alternative/Metal/Punk,0.0154
+political_view,left (liberal / progressive / socialist),292,75.3318,0.449,Srey Sros Khmeng,Sinn Sisamouth,0,World/International,0.0153
+political_view,left (liberal / progressive / socialist),74,73.4841,-0.1252,One Sweet Day,Mariah Carey & Boyz II Men,1996,R&B/Soul/Funk/Disco,0.0149
+political_view,left (liberal / progressive / socialist),210,73.3576,-0.3238,Sonatas and Interludes,John Cage,1946,Classical/Opera/Soundtrack,0.0149
+political_view,left (liberal / progressive / socialist),299,72.6861,0.1567,I Riden Så,Gjallarhorn,1997,World/International,0.0148
+political_view,left (liberal / progressive / socialist),220,72.496,-0.5361,Come Pick Me Up,Ryan Adams,2000,Country/Folk,0.0147
+political_view,left (liberal / progressive / socialist),63,70.2205,0.3698,Give It To Me,Timbaland,2007,Pop/Mainstream,0.0143
+political_view,left (liberal / progressive / socialist),223,67.9733,-0.1887,For an Angel,Paul Van Dyk,1994,Electronic/Dance,0.0138
+political_view,left (liberal / progressive / socialist),88,65.6966,0.531,The Tide Is High,Blondie,1981,Rock/Alternative/Metal/Punk,0.0133
+political_view,left (liberal / progressive / socialist),107,57.8694,0.126,One Dance,Drake featuring Wizkid and Kyla,2016,Rap/Hiphop,0.0118
+political_view,left (liberal / progressive / socialist),264,55.6989,-0.1462,If You Leave Me Now,Chicago,1976,Rock/Alternative/Metal/Punk,0.0113
+political_view,left (liberal / progressive / socialist),281,54.9524,0.3268,El Son de la Negra,Blas Gilando Dimas,1940,World/International,0.0112
+political_view,left (liberal / progressive / socialist),188,53.7871,0.0261,Ride of the Valkyries,Richard Wagner,1856,Classical/Opera/Soundtrack,0.0109
+political_view,left (liberal / progressive / socialist),246,52.8253,0.5242,Bye bye bye,NSYNC,1998,Pop/Mainstream,0.0107
+political_view,left (liberal / progressive / socialist),237,52.6243,-0.0486,Lonely Woman,Ornette Coleman,1959,Jazz/Vocal,0.0107
+political_view,left (liberal / progressive / socialist),57,51.8891,-0.2677,All About That Bass,Meghan Trainor,2014,Pop/Mainstream,0.0105
+political_view,left (liberal / progressive / socialist),298,49.8227,-0.083,Mado,Émilie Vacher,1931,World/International,0.0101
+political_view,left (liberal / progressive / socialist),219,45.0007,-0.5397,A Little Bit Stronger,Sara Evans,2010,Country/Folk,0.0091
+political_view,left (liberal / progressive / socialist),153,44.1475,0.6177,Baby Got Back,Sir Mix A Lot,1992,Rap/Hiphop,0.009
+political_view,left (liberal / progressive / socialist),178,30.428,0.5615,Bite It You Scum,gg allin,1990,Rock/Alternative/Metal/Punk,0.0062
+political_view,left (liberal / progressive / socialist),244,26.5781,0.5924,Superstition,Stevie Wonder,1972,Pop/Mainstream,0.0054
+political_view,left (liberal / progressive / socialist),12,19.2777,0.145,Sandstorm,Darude,1999,Electronic/Dance,0.0039
+race,Asian,160,257.5634,-1.3235,Get Busy,Sean Paul,2002,Pop/Mainstream,0.1105
+race,Asian,73,213.5705,-1.2397,Hypnotize,Notorious B.I.G.,1997,Rap/Hiphop,0.0916
+race,Asian,102,192.1033,0.764,Perfect,Ed Sheeran,2017,Rock/Alternative/Metal/Punk,0.0824
+race,Asian,71,192.0348,-1.0821,Bootylicious,Destiny's Child,2001,R&B/Soul/Funk/Disco,0.0824
+race,Asian,282,165.5631,-0.9673,Guantanamera,Celia Cruz,1966,World/International,0.071
+race,Asian,242,159.2405,-0.9338,I Wanna Hold Your Hand,Beatles,1964,Pop/Mainstream,0.0683
+race,Asian,46,143.7432,0.8429,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.0617
+race,Asian,173,129.5489,0.7948,The Goldberg Variations,J.S.Bach,1741,Classical/Opera/Soundtrack,0.0556
+race,Asian,28,129.261,-1.2251,Smells Like Teen Spirit,Nirvana,1991,Rock/Alternative/Metal/Punk,0.0555
+race,Asian,273,128.0191,-0.8539,You Can't Hurry Love,The Supremes,1966,R&B/Soul/Funk/Disco,0.0549
+race,Asian,95,121.2668,0.3917,Top Of The World,Carpenters,1973,Rock/Alternative/Metal/Punk,0.052
+race,Asian,30,108.7231,-0.956,Three Little Birds,Bob Marley,1980,R&B/Soul/Funk/Disco,0.0466
+race,Asian,25,107.4446,-0.5794,Lucy In The Sky With Diamonds,The Beatles,1967,Rock/Alternative/Metal/Punk,0.0461
+race,Asian,41,100.0144,0.6215,My Favorite Polka,Frankie Yankovic,1957,World/International,0.0429
+race,Asian,185,96.2575,-0.7668,Hell's Bells,AC/DC,1980,Rock/Alternative/Metal/Punk,0.0413
+race,Asian,156,86.4684,0.5792,What Do You Mean?,Justin Bieber,2015,Pop/Mainstream,0.0371
+religion,Atheist / agnostic,150,188.3938,-0.6297,Love in This Club,Usher featuring Young Jeezy,2008,Pop/Mainstream,0.0686
+religion,Atheist / agnostic,320,110.2341,0.4593,Overworld (Zelda),Koji Kondo,1986,World/International,0.0401
+religion,Atheist / agnostic,300,106.6896,0.1803,Kalinka-Malinka,Ivan Larionov,1860,World/International,0.0388
+religion,Atheist / agnostic,103,95.3398,-0.4288,Shape of You,Ed Sheeran,2017,Pop/Mainstream,0.0347
+religion,Atheist / agnostic,68,94.831,-0.4111,Foolish,Ashanti,2002,R&B/Soul/Funk/Disco,0.0345
+religion,Atheist / agnostic,25,90.238,0.3615,Lucy In The Sky With Diamonds,The Beatles,1967,Rock/Alternative/Metal/Punk,0.0328
+religion,Atheist / agnostic,271,89.237,-0.2028,I'm A Man,Bo Diddley,1955,R&B/Soul/Funk/Disco,0.0325
+religion,Atheist / agnostic,152,84.0143,0.084,Heaven's Flames,Jim Lauderdale,1991,Country/Folk,0.0306
+religion,Atheist / agnostic,158,82.9204,-0.2738,I Need You Now,Eddie Fisher,1954,Jazz/Vocal,0.0302
+religion,Atheist / agnostic,219,79.6108,-0.3487,A Little Bit Stronger,Sara Evans,2010,Country/Folk,0.029
+religion,Atheist / agnostic,71,76.0614,-0.5282,Bootylicious,Destiny's Child,2001,R&B/Soul/Funk/Disco,0.0277
+religion,Atheist / agnostic,252,74.2275,0.1657,Paid In Full,Erik B & Rakim,1987,Rap/Hiphop,0.027
+religion,Atheist / agnostic,308,72.9916,0.3435,Lord of the Rings Theme,Howard Shore,2000,World/International,0.0266
+religion,Atheist / agnostic,211,67.441,0.242,Wildwood Flower,The Carter Family,1928,Country/Folk,0.0245
+religion,Atheist / agnostic,222,61.4128,-0.1911,I Want You (Forever),Carl Cox,1991,Electronic/Dance,0.0224
+religion,Atheist / agnostic,116,60.6346,-0.4887,Rude,Magic!,2014,Pop/Mainstream,0.0221
+religion,Atheist / agnostic,305,54.9914,0.2068,Maori Haka,New Zealand Maori Warrior Chant,0,World/International,0.02
+religion,Atheist / agnostic,160,54.3287,-0.5772,Get Busy,Sean Paul,2002,Pop/Mainstream,0.0198
+religion,Atheist / agnostic,108,54.012,-0.5,Work,Rihanna featuring Drake,2016,Rap/Hiphop,0.0197
+religion,Atheist / agnostic,287,51.3128,0.1754,Pata Pata,Miriam Makeba,1989,World/International,0.0187
+religion,Atheist / agnostic,189,50.9739,0.424,Seek And Destroy,Metallica,1983,Rock/Alternative/Metal/Punk,0.0186
+religion,Atheist / agnostic,20,50.1505,0.2957,American Idiot,Green Day,2004,Pop/Mainstream,0.0183
+religion,Atheist / agnostic,85,49.5519,-0.2796,Heaven,Bryan Adams,1985,Rock/Alternative/Metal/Punk,0.018
+religion,Atheist / agnostic,167,45.9561,-0.1919,Oh Darlin,The Okanes,1986,Country/Folk,0.0167
+religion,Atheist / agnostic,31,42.5524,-0.1214,Lovely Day,Bill Withers,1977,R&B/Soul/Funk/Disco,0.0155
+religion,Atheist / agnostic,178,41.7704,0.5162,Bite It You Scum,gg allin,1990,Rock/Alternative/Metal/Punk,0.0152
+religion,Atheist / agnostic,149,41.1949,-0.5118,Live Your Life,T.I. featuring Rihanna,2008,Pop/Mainstream,0.015
+religion,Atheist / agnostic,237,40.3731,-0.0279,Lonely Woman,Ornette Coleman,1959,Jazz/Vocal,0.0147
+religion,Atheist / agnostic,276,40.2976,0.1376,Stayin' Alive,Bee Gees,1977,R&B/Soul/Funk/Disco,0.0147
+religion,Atheist / agnostic,84,39.128,-0.359,Lean On Me,Club Nouveau,1987,R&B/Soul/Funk/Disco,0.0142
+religion,Atheist / agnostic,28,38.9162,0.4234,Smells Like Teen Spirit,Nirvana,1991,Rock/Alternative/Metal/Punk,0.0142
+religion,Atheist / agnostic,177,37.9469,0.234,Conquest of Paradise,Vangelis,1992,Electronic/Dance,0.0138
+religion,Atheist / agnostic,248,37.4736,0.1216,All The Small Things,Blink 182,2005,Pop/Mainstream,0.0136
+religion,Atheist / agnostic,193,37.4133,0.1635,Hurt,Nine Inch Nails,1995,Rock/Alternative/Metal/Punk,0.0136
+religion,Atheist / agnostic,100,35.3363,0.2559,Get Back,The Beatles w/ Billy Preston,1969,Rock/Alternative/Metal/Punk,0.0129
+religion,Atheist / agnostic,297,33.9576,0.2519,Whiskey In The Jar,The Dubliners,1968,World/International,0.0124
+religion,Atheist / agnostic,266,32.5552,0.4738,Anarchy In The U.K.,Sex Pistols,1977,Rock/Alternative/Metal/Punk,0.0119
+religion,Atheist / agnostic,114,31.6942,-0.3507,Can't Feel My Face,The Weeknd,2015,Rap/Hiphop,0.0115
+religion,Atheist / agnostic,213,31.1105,0.2105,Lovesick Blues,Hank Williams,1948,Country/Folk,0.0113
+religion,Atheist / agnostic,270,30.1284,0.3838,Karma Police,Radiohead,1997,Rock/Alternative/Metal/Punk,0.011
+religion,Atheist / agnostic,283,28.084,-0.1726,Pressure Drop,Toots & The Maytals,1969,World/International,0.0102
+religion,Atheist / agnostic,288,27.9221,-0.1674,Shinamania,Shina Peters,1989,World/International,0.0102
+religion,Atheist / agnostic,136,27.3553,-0.1991,Just the Way You Are,Bruno Mars,2010,Pop/Mainstream,0.01
+religion,Atheist / agnostic,1,26.4465,0.2501,Je Vous Pri Que J'Aye un Baysier,Richard Loqueville,1418,Classical/Opera/Soundtrack,0.0096
+religion,Atheist / agnostic,220,25.3751,-0.4066,Come Pick Me Up,Ryan Adams,2000,Country/Folk,0.0092
+religion,Atheist / agnostic,192,23.7483,0.2653,Disarm,Smashing Pumpkins,1994,Rock/Alternative/Metal/Punk,0.0086
+religion,Atheist / agnostic,260,23.4684,-0.3337,Jumpman,Future and Drake,2017,Rap/Hiphop,0.0085
+religion,Atheist / agnostic,46,16.5997,-0.2159,Texas Tornado,Tracy Lawrence,1994,Country/Folk,0.006
+religion,Atheist / agnostic,247,16.4417,-0.5811,Forever,Chris Brown,2007,Pop/Mainstream,0.006
+religion,Atheist / agnostic,13,15.2822,0.2075,Feel It All Around,Washed Out,2009,Electronic/Dance,0.0056
+religion,Atheist / agnostic,55,15.0957,-0.2026,Intro,Ludacris,2004,Rap/Hiphop,0.0055
+religion,Atheist / agnostic,242,13.4938,0.3334,I Wanna Hold Your Hand,Beatles,1964,Pop/Mainstream,0.0049
+religion,Atheist / agnostic,88,12.0231,-0.0878,The Tide Is High,Blondie,1981,Rock/Alternative/Metal/Punk,0.0044
+religion,Atheist / agnostic,183,11.6473,0.4239,Helter Skelter,The Beatles,1968,Rock/Alternative/Metal/Punk,0.0042
+religion,Atheist / agnostic,208,10.9857,0.3463,The Rite Of Spring,Igor Stravinsky,1913,Classical/Opera/Soundtrack,0.004
+religion,Atheist / agnostic,278,9.3205,-0.2854,Love Come Down,"Evelyn ""Champagne"" King",1982,R&B/Soul/Funk/Disco,0.0034
+religion,Atheist / agnostic,102,3.7096,-0.3053,Perfect,Ed Sheeran,2017,Rock/Alternative/Metal/Punk,0.0014
+religion,Atheist / agnostic,169,2.8335,0.1227,Sleepwalk,Santo And Johnny,1959,Pop/Mainstream,0.001
+religion,Atheist / agnostic,9,0.0,-0.3252,Independence Day,Martina McBride,1994,Country/Folk,0.0
+religion,Atheist / agnostic,45,0.0,-0.0628,That Lucky Old Sun,Frankie Laine,1958,Country/Folk,0.0
+religion,Atheist / agnostic,80,0.0,0.012,Praying For Time,George Michael,1990,Pop/Mainstream,0.0
+religion,Atheist / agnostic,259,0.0,-0.3393,Gucci Gang,Lil Pump,2017,Rap/Hiphop,0.0
+religion,Atheist / agnostic,269,0.0,0.2938,Round and Round,Ratt,1987,Rock/Alternative/Metal/Punk,0.0
+religion,Atheist / agnostic,314,0.0,0.1893,Seinfeld Theme,Jonathan Wolff,1989,World/International,0.0

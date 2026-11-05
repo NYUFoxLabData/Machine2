@@ -1,0 +1,15 @@
+target,bal_acc,bal_acc_sd,auc,auc_sd,clips_median,clips_min,clips_max,trees_median,rule,positive_class,n,share_positive
+gender,0.7005,0.0439,0.8087,0.0409,24.0,12,128,186.0,grouped answers,Female,766,0.688
+race,0.7697,0.0328,0.8397,0.0318,32.0,16,256,189.0,grouped answers (dropped 53),Asian,741,0.4305
+area,0.625,0.033,0.67,0.0346,48.0,5,128,137.0,grouped answers,Urban,773,0.4631
+lyrics_vs_instruments,0.6479,0.0521,0.6851,0.0523,12.0,5,96,95.0,grouped answers (dropped 513),Lyrics,276,0.5
+music_importance,0.5104,0.014,0.5904,0.0643,16.0,5,256,83.0,grouped answers,big role / music is my life,794,0.8073
+religion,0.5768,0.0291,0.6134,0.0297,32.0,5,96,68.0,grouped answers,Atheist / agnostic,769,0.4122
+political_view,0.6536,0.0463,0.7295,0.0524,24.0,8,256,196.0,grouped answers,left (liberal / progressive / socialist),787,0.6353
+SES,0.5884,0.0314,0.6146,0.0301,64.0,8,320,170.0,grouped answers,upper / upper middle class,745,0.498
+age,0.5785,0.0485,0.6185,0.0585,48.0,5,192,114.0,median split at 19,high (> 19),796,0.4673
+BFI_Extraversion,0.578,0.0246,0.6073,0.0273,32.0,5,320,105.0,median split at 3.125,high (≥ 3.125),959,0.5151
+BFI_Agreeableness,0.5666,0.0293,0.5972,0.0395,16.0,5,320,66.0,median split at 3.66667,high (> 3.66667),959,0.4974
+BFI_Conscientiousness,0.5192,0.0347,0.5162,0.0359,32.0,5,192,70.0,median split at 3.33333,high (> 3.33333),959,0.4891
+BFI_Neuroticism,0.5221,0.0293,0.5295,0.0343,32.0,8,320,48.0,median split at 3.375,high (> 3.375),959,0.4818
+BFI_Openness,0.6178,0.0309,0.659,0.0324,32.0,5,64,129.0,median split at 3.8,high (> 3.8),959,0.4713
